@@ -1,0 +1,24 @@
+{% for post in site.posts | sort: 'order' %}
+
+<!-- {{ post.ref }} -->
+
+  <section id="{{ post.ref }}" class="spotlight style{{ post.style }} {{ post.align }}">
+    <span class="image fit main"><img src="{{ post.img }}" alt="" /></span>
+    <div class="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-4 col-12-medium">
+            <header{% if post.major %} class="major"{% endif %}>
+              <h2>{{ post.title }}</h2>
+              <p>{{ post.description }}</p>
+            </header>
+          </div>
+          <div class="col-4 col-12-medium">
+            {{ content }}
+        </div>
+      </div>
+    </div>
+    <a href="#{{ post.next }}" class="goto-next scrolly">{{ site.data.strings.words."page.lang | default: en" }}</a>
+  </section>
+
+{% endfor %}
