@@ -11,7 +11,7 @@ collections:
 email: youremailaddress@gmail.com
 description: Cloud4est Community site
 baseurl: "/site_community"
-url:
+url: https://cloud4est.github.io
 featured-image-source:
 500px_url:
 facebook_url:

@@ -2,7 +2,44 @@ titles:
   home:
     en: Home
     hu: Főoldal
+  layouts:
+    en: Layouts
+    hu: Elrendezések
+  left_sidebar:
+    en: Left sidebar
+    hu: Bal oldalsáv
+  right_sidebar:
+    en: Right sidebar
+    hu: Jobb oldalsáv
+  no_sidebar:
+    en: No sidebar
+    hu: Nincs oldalsáv
+  submenu:
+    en: Submenu
+    hu: Almenü
+  elements:
+    en: Elements
+    hu: Elemek
 words:
   next:
     en: Next
     hu: Következő
+  option:
+    en: Option
+    hu: Opció
+  lang:
+    en: English
+    hu: Magyar
+expressions:
+  get_started:
+    en: Get Started
+    hu: Kezdjünk Bele
+  your_email:
+    en: Your Email Address
+    hu: Az Email Címed
+  learn_more:
+    en: Learn More
+    hu: Tudj Meg Többet
+  sign_up:
+    en: Sign Up
+    hu: Regisztrálj
