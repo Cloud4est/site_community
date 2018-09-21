@@ -43,3 +43,22 @@ expressions:
   sign_up:
     en: Sign Up
     hu: Regisztrálj
+site:
+  description:
+    en:
+        The community section of Cloud4est,
+        showcasing our </br>
+        main principles and goals,
+        which we are striving to achieve </br>
+        as a community.
+    hu:
+        A Cloud4est közösségi szekciója
+        főbb elveinkkel és céljainkkal,</br>
+        amelyeket közösségként törekszünk
+        elérni.
+  short_description:
+    en: Cloud4est community site
+    hu: Cloud4est közösségi oldal
+  title:
+    hu: Cloud4est - Közösség
+    en: Cloud4est - Community

@@ -1,12 +1,12 @@
 ---
 title: First section
-lang: hu
+lang: en
 ref: One
 after: Two
 order: 1
 style: spotlight style1 bottom
 div: 2
-middle: >
+middle:
   Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
   Blandit orci porttitor semper. Arcu phasellus tortor enim mi
   nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
@@ -14,6 +14,7 @@ middle: >
   adipiscing lorem dolor.
 img: images/pic02.jpg
 description: Nascetur eu nibh vestibulum amet gravida nascetur praesent
+type: main
 ---
 
 Morbi enim nascetur et placerat lorem sed iaculis neque ante

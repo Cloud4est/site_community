@@ -1,9 +1,9 @@
 <!-- Header -->
   <header id="header">
-    <h1 id="logo"><a href="index.html">{{ site.title }}</a></h1>
+    <h1 id="logo"><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.site.title.hu }}{% else %}{{ site.data.strings.site.title.en }}{% endif %}</a></h1>
     <nav id="nav">
       <ul>
-        <li><a href="index.html">{% if page.lang == "hu" %}{{ site.data.strings.titles.home.hu }}{% else %}{{ site.data.strings.titles.home.en }}{% endif %}</a></li>
+        <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.titles.home.hu }}{% else %}{{ site.data.strings.titles.home.en }}{% endif %}</a></li>
         <li>
           <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}en/{% endif %}">{% if page.lang == "en" %}{{ site.data.strings.words.lang.hu }}{% else %}{{ site.data.strings.words.lang.en }}{% endif %}</a></li>
         <li>
