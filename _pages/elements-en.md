@@ -1,13 +1,10 @@
 ---
 title: Elements
-description:
-             Ipsum dolor feugiat aliquam
-             tempus sed magna lorem
-             consequat accumsan
+permalink: "/elements_en/"
+description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
 order: 1
 lang: en
 ref: elements
-permalink: /elements_en/
 location: navbar
 layout: default
 style: wrapper style1

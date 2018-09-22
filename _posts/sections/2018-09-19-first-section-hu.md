@@ -1,16 +1,15 @@
 ---
 title: Első szekció
+date: 2018-09-19 00:00:00 +02:00
 lang: hu
 ref: One
 after: Two
 order: 1
 style: spotlight style1 bottom
 div: 2
-middle:
-  Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-  Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-  nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-  augue varius tempus lobortis porttitor accumsan consequat
+middle: Feugiat accumsan lorem eu ac lorem amet sed accumsan donec. Blandit orci porttitor
+  semper. Arcu phasellus tortor enim mi nisi praesent dolor adipiscing. Integer mi
+  sed nascetur cep aliquet augue varius tempus lobortis porttitor accumsan consequat
   adipiscing lorem dolor.
 img: images/pic02.jpg
 description: Nascetur eu nibh vestibulum amet gravida nascetur praesent

@@ -1,18 +1,15 @@
 ---
 title: Left sidebar
-description:
-             Ipsum dolor feugiat aliquam
-             tempus sed magna lorem
-             consequat accumsan
+permalink: "/left-sidebar_en/"
+description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
 order: 1
 lang: en
 ref: left-sidebar
-permalink: /left-sidebar_en/
 location: menu
 layout: default
 style: wrapper style1
 sidebar: left
-img: /images/pic05.jpg
+img: "/images/pic05.jpg"
 ---
 
 ### Left sidebar

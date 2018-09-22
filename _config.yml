@@ -1,4 +1,5 @@
 ---
+title: Community
 timezone: Europe/Budapest
 collections:
   posts:
@@ -10,16 +11,17 @@ collections:
 email: youremailaddress@gmail.com
 baseurl: "/site_community"
 url: https://cloud4est.github.io
-featured-image-source:
-500px_url:
-facebook_url:
+featured-image-source: 
+500px_url: 
+facebook_url: 
 github_url: https://github.com/Cloud4est/
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url: 
+slack_url: 
+twitter_url: 
 markdown: kramdown
-include: ['_pages']
+include:
+- _pages

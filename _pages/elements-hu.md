@@ -1,13 +1,10 @@
 ---
 title: Elemek
-description:
-             Ipsum dolor feugiat aliquam
-             tempus sed magna lorem
-             consequat accumsan
+permalink: "/elements/"
+description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
 order: 1
 lang: hu
 ref: elements
-permalink: /elements/
 location: navbar
 layout: default
 style: wrapper style1

@@ -1,7 +1,8 @@
 ---
 title: Home
+permalink: "/en/"
 lang: en
 ref: index
-permalink: /en/
 layout: home
 ---
+

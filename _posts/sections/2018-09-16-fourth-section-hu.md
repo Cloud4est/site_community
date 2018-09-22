@@ -1,5 +1,6 @@
 ---
 title: Negyedik szekció
+date: 2018-09-16 00:00:00 +02:00
 lang: hu
 ref: Four
 after: Five
@@ -7,9 +8,7 @@ order: 4
 style: wrapper style1 special fade-up
 major: major
 img: images/pic04.jpg
-description: Iaculis ac volutpat vis non
-  enim gravida nisi faucibus
-  posuere arcu consequat
+description: Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat
 type: main
 ---
 

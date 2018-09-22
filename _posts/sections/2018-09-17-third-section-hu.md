@@ -1,5 +1,6 @@
 ---
 title: Harmadik szekció
+date: 2018-09-17 00:00:00 +02:00
 lang: hu
 ref: Three
 after: Four
