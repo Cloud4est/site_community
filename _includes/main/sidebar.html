@@ -1,23 +1,19 @@
 <!-- Sidebar -->
   <section id="sidebar">
+{% assign sidebars = site.posts | sort:"order" | where:"type","sidebar" | where_exp: "post","post.location == page.title" | where:"lang",page.lang %}
+{% for post in sidebars %}
+<!-- Sidebar sections -->
     <section>
-      <h3>Magna Feugiat</h3>
-      <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.content }}</p>
       <footer>
         <ul class="actions">
-          <li><a href="#" class="button">Learn More</a></li>
+          <li><a href="#" class="button">{% if page.lang == "hu" %}{{ site.data.strings.expressions.learn_more.hu }}{% else %}{{ site.data.strings.expressions.learn_more.en }}{% endif %}</a></li>
         </ul>
       </footer>
     </section>
-    <hr />
-    <section>
-      <a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-      <h3>Amet Lorem Tempus</h3>
-      <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-      <footer>
-        <ul class="actions">
-          <li><a href="#" class="button">Learn More</a></li>
-        </ul>
-      </footer>
-    </section>
+    {% endfor %}
+
   </section>
+
+  <hr />

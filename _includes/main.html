@@ -1,11 +1,12 @@
-<!-- Main -->
+<!-- Main start -->
   <div id="main" class="wrapper style1">
     <div class="container">
       <header class="major">
-        <h2>Left Sidebar</h2>
-        <p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.description }}</p>
       </header>
       <div class="row gtr-150">
+        {% if page.sidebar == 'left' %}
         <div class="col-4 col-12-medium">
 
           {% include main/sidebar.html %}
@@ -16,6 +17,28 @@
           {% include main/content.html %}
 
         </div>
+        {% endif %}
+
+
+        {% if page.sidebar == 'right' %}
+        <div class="col-4 col-12-medium">
+
+          {% include main/sidebar.html %}
+
+        </div>
+        <div class="col-8 col-12-medium imp-medium">
+
+          {% include main/content.html %}
+
+        </div>
+          {% elsif page.sidebar == null %}
+
+          {% include main/content.html %}
+
+          {% endif %}
+
       </div>
     </div>
   </div>
+
+<!-- Main end -->

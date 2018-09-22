@@ -1,19 +1,26 @@
-<!-- Header -->
+<!-- Navbar start -->
   <header id="header">
     <h1 id="logo"><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.site.title.hu }}{% else %}{{ site.data.strings.site.title.en }}{% endif %}</a></h1>
     <nav id="nav">
       <ul>
         <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.titles.home.hu }}{% else %}{{ site.data.strings.titles.home.en }}{% endif %}</a></li>
-        <li>
-          <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}en/{% endif %}">{% if page.lang == "en" %}{{ site.data.strings.words.lang.hu }}{% else %}{{ site.data.strings.words.lang.en }}{% endif %}</a></li>
-        <li>
+        <li class="button primary">
+          <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/en/{% endif %}">{% if page.lang == "en" %}{{ site.data.strings.words.lang.hu }}{% else %}{{ site.data.strings.words.lang.en }}{% endif %}</a></li>
+          {% assign pages = site.pages | sort:"order" | where:"location","navbar" | where:"lang",page.lang %}
+          {% for page in pages %}
+          <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endfor %}
+          <li>
           <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.layouts.hu }}{% else %}{{ site.data.strings.titles.layouts.en }}{% endif %}</a>
+          <!-- Menu list -->
           <ul>
-            <li><a href="left-sidebar.html">{% if page.lang == "hu" %}{{ site.data.strings.titles.left_sidebar.hu }}{% else %}{{ site.data.strings.titles.left_sidebar.en }}{% endif %}</a></li>
-            <li><a href="right-sidebar.html">{% if page.lang == "hu" %}{{ site.data.strings.titles.right_sidebar.hu }}{% else %}{{ site.data.strings.titles.right_sidebar.en }}{% endif %}</a></li>
-            <li><a href="no-sidebar.html">{% if page.lang == "hu" %}{{ site.data.strings.titles.no_sidebar.hu }}{% else %}{{ site.data.strings.titles.no_sidebar.en }}{% endif %}</a></li>
+            {% assign pages_menu = site.pages | sort:"order" | where:"location","menu" | where:"lang",page.lang %}
+            {% for page in pages_menu %}
+            <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endfor %}
             <li>
               <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.submenu.hu }}{% else %}{{ site.data.strings.titles.submenu.en }}{% endif %}</a>
+              <!-- Submenu list -->
               <ul>
                 <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 1</a></li>
                 <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 2</a></li>
@@ -23,8 +30,8 @@
             </li>
           </ul>
         </li>
-        <li><a href="elements.html">{% if page.lang == "hu" %}{{ site.data.strings.titles.elements.hu }}{% else %}{{ site.data.strings.titles.elements.en }}{% endif %}</a></li>
-        <li><a href="#" class="button primary">{% if page.lang == "hu" %}{{ site.data.strings.expressions.sign_up.hu }}{% else %}{{ site.data.strings.expressions.sign_up.en }}{% endif %}</a></li>
       </ul>
     </nav>
   </header>
+
+<!-- Navbar end -->

@@ -22,3 +22,4 @@ pinterest_url:
 slack_url:
 twitter_url:
 markdown: kramdown
+include: ['_pages']
