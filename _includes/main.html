@@ -5,7 +5,9 @@
         <h2>{{ page.title }}</h2>
         <p>{{ page.description }}</p>
       </header>
+      {% if page.sidebar != null %}
       <div class="row gtr-150">
+
         {% if page.sidebar == 'left' %}
         <div class="col-4 col-12-medium">
 
@@ -31,13 +33,15 @@
           {% include main/content.html %}
 
         </div>
+
+      </div>
+      {% endif %}
+
           {% elsif page.sidebar == null %}
 
           {% include main/content.html %}
 
           {% endif %}
-
-      </div>
     </div>
   </div>
 
