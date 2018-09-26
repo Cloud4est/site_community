@@ -1,3 +1,5 @@
+---
+---
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
@@ -2490,7 +2492,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-			background-image: url("images/overlay.png");
+			background-image: url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");
 			width: 100%;
 			height: 100%;
 			z-index: 1;
@@ -2916,7 +2918,7 @@ input, select, textarea {
 	}
 
 		.goto-next:before {
-			background-image: url("images/arrow.svg");
+			background-image: url("{{ "/assets/css/images/arrow.svg" | prepend: site.baseurl }}");
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: contain;
@@ -3024,7 +3026,7 @@ input, select, textarea {
 		}
 
 		.spotlight:before {
-			background-image: url("images/overlay.png");
+			background-image: url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");
 			content: '';
 			display: block;
 			height: 100%;
@@ -3419,7 +3421,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("{{ "/images/banner.jpg" | prepend: site.baseurl }}");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3438,10 +3440,10 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
+			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
+			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{"/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
+			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
 			content: '';
 			display: block;
 			height: 100%;
