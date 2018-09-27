@@ -2492,7 +2492,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-			background-image: url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");
+			background-image: url("{{ site.overlay | prepend: site.baseurl }}");
 			width: 100%;
 			height: 100%;
 			z-index: 1;
@@ -3026,7 +3026,7 @@ input, select, textarea {
 		}
 
 		.spotlight:before {
-			background-image: url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");
+			background-image: url("{{ site.overlay | prepend: site.baseurl }}");
 			content: '';
 			display: block;
 			height: 100%;
@@ -3417,11 +3417,11 @@ input, select, textarea {
 	}
 
 /* Banner */
-
+{% assign banner = site.posts | sort:"order" | where:"ref","One" | where:"type","main" | where:"lang","hu" %}
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("{{ "/images/banner.jpg" | prepend: site.baseurl }}");
+		background-image: url("{% for post in banner %}{{ post.background | prepend: site.baseurl }}{% endfor %}");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3440,10 +3440,10 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{"/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ "/assets/css/images/overlay.png" | prepend: site.baseurl }}");;
+			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ site.overlay | prepend: site.baseurl }}");;
+			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ site.overlay | prepend: site.baseurl }}");;
+			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ site.overlay | prepend: site.baseurl }}");;
+			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("{{ site.overlay | prepend: site.baseurl }}");;
 			content: '';
 			display: block;
 			height: 100%;

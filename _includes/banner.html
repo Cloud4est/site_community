@@ -5,7 +5,7 @@
         <h2>{% if page.lang == "hu" %}{{ site.data.strings.site.short_description.hu }}{% else %}{{ site.data.strings.site.short_description.en }}{% endif %}</h2>
         <p>{% if page.lang == "hu" %}{{ site.data.strings.site.description.hu }}{% else %}{{ site.data.strings.site.description.en }}{% endif %}</p>
       </header>
-      <span class="image"><img src="{{ "/images/pic01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="" /></span>
+      <span class="image"><img src="{{ site.pic | prepend: site.baseurl | prepend: site.url }}" alt="" /></span>
     </div>
     <a href="#One" class="goto-next scrolly">{% if page.lang == "hu" %}{{ site.data.strings.words.next.hu }}{% else %}{{ site.data.strings.words.next.en }}{% endif %}</a>
   </section>

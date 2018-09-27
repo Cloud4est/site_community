@@ -14,6 +14,7 @@ middle: Feugiat accumsan lorem eu ac lorem amet sed accumsan donec. Blandit orci
 img: images/pic02.jpg
 description: Nascetur eu nibh vestibulum amet gravida nascetur praesent
 type: main
+background: /images/pic03.jpg
 ---
 
 Morbi enim nascetur et placerat lorem sed iaculis neque ante
