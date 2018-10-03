@@ -2,9 +2,6 @@
 title: Community
 timezone: Europe/Budapest
 collections:
-  navbar:
-    title: Navbar
-    output: true
   posts:
     title: Posts
     output: true
