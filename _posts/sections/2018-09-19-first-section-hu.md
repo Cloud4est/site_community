@@ -7,12 +7,12 @@ after: Two
 order: 1
 style: spotlight style1 bottom
 div: 2
-middle: Feugiat accumsan lorem eu ac lorem amet sed accumsan donec. Blandit orci porttitor
-  semper. Arcu phasellus tortor enim mi nisi praesent dolor adipiscing. Integer mi
-  sed nascetur cep aliquet augue varius tempus lobortis porttitor accumsan consequat
-  adipiscing lorem dolor.
+middle: 'Az IT szektorban sorra nőnek ki a vállalkozások, amelyeket idővel felépítőik
+  értékesítenek, és új projektekbe vágnak. Mi jellemez ma egy sikeres vállalkozást?
+  Mik a perspektívák? '
 img: images/pic02.jpg
-description: Nascetur eu nibh vestibulum amet gravida nascetur praesent
+description: 'A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai
+  konferencia![410637.jpg](/uploads/410637.jpg) '
 type: main
 background: "/images/pic03.jpg"
 ---
