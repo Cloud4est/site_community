@@ -1,5 +1,5 @@
 ---
-title: Első szekció
+title: Open4business 2018
 date: 2018-09-19 00:00:00 +02:00
 lang: hu
 ref: One
@@ -17,8 +17,11 @@ type: main
 background: "/images/pic03.jpg"
 ---
 
-Morbi enim nascetur et placerat lorem sed iaculis neque ante
-adipiscing adipiscing metus massa. Blandit orci porttitor semper.
-Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
-mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
-ipsum dolor nullam.
+Egy embertelenül izgalmas nap pécsi IT-sekkel és híres meghívottakkal. 
+Témák: 
+Hogyan építettünk több 100 IT projektet az elmúlt 15 évben? 
+Miért fontos a validáció egy ötlet kidolgozását megelőzően? 
+Miért és mikor érdemes támogatni egy IT-s startupot? 
+Hogyan növekszik egy IT vállakozás? 
+Miért nem lehet megvédeni hálózatainkat? 
+Mit adhat a big data feldolgozás egy vállakozás számára? 
