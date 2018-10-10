@@ -7,7 +7,7 @@ after: Five
 order: 4
 style: wrapper style1 special fade-up
 major: major
-img: images/pic04.jpg
+image: /images/pic04.jpg
 description: Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat
 type: main
 ---

@@ -52,7 +52,7 @@
 <!-- {{ post.ref }} -->
 
   <section id="{{ post.ref }}" class="{{ post.style }}">
-    <span class="image fit main"><img src="{{ "{{ post.img }}" | prepend: site.baseurl | prepend: site.url }}" alt="" /></span>
+    <span class="image fit main"><img src="{{ post.image | prepend: site.baseurl }}" alt="" /></span>
     <div class="content">{% if post.middle %}
       <div class="container">
         <div class="row">{% endif %}
