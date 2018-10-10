@@ -2,8 +2,8 @@
 title: Community
 timezone: Europe/Budapest
 collections:
-  navbar:
-    title: Navbar
+  _pages:
+    title: Navbar_Pages
     output: true
   posts:
     title: Posts
