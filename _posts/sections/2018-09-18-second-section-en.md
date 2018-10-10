@@ -6,7 +6,7 @@ ref: Two
 after: Three
 order: 2
 style: spotlight style2 right
-image: /images/pic03.jpg
+image: "/images/pic03.jpg"
 description: Nunc commodo accumsan eget id nisi eu col volutpat magna
 type: main
 ---

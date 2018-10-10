@@ -11,7 +11,7 @@ middle: Feugiat accumsan lorem eu ac lorem amet sed accumsan donec. Blandit orci
   semper. Arcu phasellus tortor enim mi nisi praesent dolor adipiscing. Integer mi
   sed nascetur cep aliquet augue varius tempus lobortis porttitor accumsan consequat
   adipiscing lorem dolor.
-image: /images/pic02.jpg
+image: "/images/pic02.jpg"
 description: Nascetur eu nibh vestibulum amet gravida nascetur praesent
 type: main
 ---

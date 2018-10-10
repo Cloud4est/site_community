@@ -10,7 +10,7 @@ div: 2
 middle: 'Az IT szektorban sorra nőnek ki a vállalkozások, amelyeket idővel felépítőik
   értékesítenek, és új projektekbe vágnak. Mi jellemez ma egy sikeres vállalkozást?
   Mik a perspektívák? '
-image: /images/pic02.jpg
+image: "/images/pic02.jpg"
 description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai
   konferencia!
 type: main

@@ -6,7 +6,7 @@ ref: Three
 after: Four
 order: 3
 style: spotlight style3 left
-image: /images/pic04.jpg
+image: "/images/pic04.jpg"
 description: Accumsan integer ultricies aliquam vel massa sapien phasellus
 type: main
 ---
