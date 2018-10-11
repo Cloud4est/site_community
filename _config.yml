@@ -11,7 +11,7 @@ collections:
   posts:
     title: Posts - Home
     output: true
-    LOCATION: home
+    location: home
   uploads:
     title: Uploads
     output: true
