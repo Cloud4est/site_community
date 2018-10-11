@@ -13,7 +13,7 @@ middle: 'Az IT szektorban sorra nőnek ki a vállalkozások, amelyeket idővel f
 image: "/images/pic02.jpg"
 description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai
   konferencia!
-type: main
+location: home
 ---
 
 Egy embertelenül izgalmas nap pécsi IT-sekkel és híres meghívottakkal.

@@ -1,13 +1,14 @@
 ---
-title: Elemek
-permalink: "/elements/"
+title: Szerzők
+permalink: "/authors/"
 description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
 order: 1
 lang: hu
-ref: elements
+ref: authors
 location: navbar
 style: wrapper style1
 layout: default
+icons: authors
 ---
 
-Elemek aloldal
+Szerzők aloldal

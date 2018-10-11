@@ -1,8 +1,0 @@
-<!-- Content -->
-<section id="content">
-  {% assign current_page = site.pages | where:"ref",page.ref | where:"lang",page.lang %}
-  {% for page in current_page %}
-  <a href="#" class="image fit"><img src="{{ page.img | prepend: site.baseurl }}" alt="" /></a>
-  {% endfor %}
-  {{ content }}
-</section>

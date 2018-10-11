@@ -9,7 +9,7 @@ location: menu
 layout: default
 style: wrapper style1
 sidebar: left
-img: "/images/pic05.jpg"
+image: "/images/pic05.jpg"
 ---
 
 ### Left sidebar

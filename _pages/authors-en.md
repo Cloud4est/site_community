@@ -1,14 +1,14 @@
 ---
-title: No sidebar
-permalink: "/no-sidebar_en/"
+title: Authors
+permalink: "/authors_en/"
 description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
-order: 3
+order: 1
 lang: en
-ref: no-sidebar
-location: menu
+ref: authors
+location: navbar
 layout: default
 style: wrapper style1
-image: "/images/pic07.jpg"
+icons: authors
 ---
 
-### No sidebar
+Authors subpage

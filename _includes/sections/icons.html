@@ -1,0 +1,35 @@
+<!-- Icons - {{ page.ref }} -->
+  <section id="icons" class="wrapper style1 special fade-up">
+    <div class="container">
+      <div class="box alt">
+        <div class="row gtr-uniform">
+          {% assign authors = site.posts | sort:"order" | where: "type","author" | where:"lang",page.lang %}
+          {% assign topics = site.posts | sort:"order" | where: "type","topic" | where:"lang",page.lang %}
+
+          {% if page.icons == 'authors' %}
+
+          {% for post in authors %}
+          <!-- {{ post.title }} -->
+          <section class="col-4 col-6-medium col-12-xsmall">
+            <span class="icon alt major {{ post.icon }}"></span>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+          </section>
+          {% endfor %}
+
+          {% elsif page.icons == 'topics' %}
+
+          {% for post in topics %}
+          <!-- {{ post.title }} -->
+          <section class="col-4 col-6-medium col-12-xsmall">
+            <span class="icon alt major {{ post.icon }}"></span>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+          </section>
+          {% endfor %}
+
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>

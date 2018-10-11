@@ -8,7 +8,7 @@ ref: no-sidebar
 location: menu
 layout: default
 style: wrapper style1
-img: "/images/pic07.jpg"
+image: "/images/pic07.jpg"
 ---
 
 ### Nincs oldalsáv

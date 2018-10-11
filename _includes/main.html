@@ -5,18 +5,23 @@
         <h2>{{ page.title }}</h2>
         <p>{{ page.description }}</p>
       </header>
+      {% if page.icons != null %}
+
+      {% include sections/icons.html %}
+
+      {% endif %}
       {% if page.sidebar != null %}
       <div class="row gtr-150">
 
         {% if page.sidebar == 'left' %}
         <div class="col-4 col-12-medium">
 
-          {% include main/sidebar.html %}
+          {% include pages/sidebar.html %}
 
         </div>
         <div class="col-8 col-12-medium imp-medium">
 
-          {% include main/content.html %}
+          {% include pages/content.html %}
 
         </div>
         {% endif %}
@@ -25,12 +30,12 @@
         {% if page.sidebar == 'right' %}
         <div class="col-8 col-12-medium imp-medium">
 
-          {% include main/content.html %}
+          {% include pages/content.html %}
 
         </div>
         <div class="col-4 col-12-medium">
 
-          {% include main/sidebar.html %}
+          {% include pages/sidebar.html %}
 
         </div>
 
@@ -39,7 +44,7 @@
 
           {% elsif page.sidebar == null %}
 
-          {% include main/content.html %}
+          {% include pages/content.html %}
 
           {% endif %}
     </div>
