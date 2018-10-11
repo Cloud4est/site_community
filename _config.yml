@@ -6,8 +6,9 @@ collections:
     title: Navbar_Pages
     output: true
   posts:
-    title: Posts
+    title: Posts - Home
     output: true
+    location: home
   uploads:
     title: Uploads
     output: true
