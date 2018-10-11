@@ -6,7 +6,6 @@ ref: One
 after: Two
 order: 1
 style: spotlight style1 bottom
-div: 2
 middle: 'Az IT szektorban sorra nőnek ki a vállalkozások, amelyeket idővel felépítőik
   értékesítenek, és új projektekbe vágnak. Mi jellemez ma egy sikeres vállalkozást?
   Mik a perspektívák? '

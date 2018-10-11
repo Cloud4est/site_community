@@ -4,32 +4,32 @@
     <nav id="nav">
       <ul>
         <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.titles.home.hu }}{% else %}{{ site.data.strings.titles.home.en }}{% endif %}</a></li>
-        <li class="button primary">
-          <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/en/{% endif %}">{% if page.lang == "en" %}{{ site.data.strings.words.lang.hu }}{% else %}{{ site.data.strings.words.lang.en }}{% endif %}</a></li>
-          {% assign pages = site.pages | sort:"order" | where:"location","navbar" | where:"lang",page.lang %}
-          {% for page in pages %}
+          <li>
+            <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.layouts.hu }}{% else %}{{ site.data.strings.titles.layouts.en }}{% endif %}</a>
+            <!-- Menu list -->
+            <ul>
+              {% assign pages_menu = site.pages | sort:"order" | where:"location","menu" | where:"lang",page.lang %}
+              {% for page in pages_menu %}
+              <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endfor %}
+              <li>
+                <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.submenu.hu }}{% else %}{{ site.data.strings.titles.submenu.en }}{% endif %}</a>
+                <!-- Submenu list -->
+                <ul>
+                  <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 1</a></li>
+                  <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 2</a></li>
+                  <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 3</a></li>
+                  <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 4</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          {% assign pages_navbar = site.pages | sort:"order" | where:"location","navbar" | where:"lang",page.lang %}
+          {% for page in pages_navbar %}
           <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endfor %}
-          <li>
-          <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.layouts.hu }}{% else %}{{ site.data.strings.titles.layouts.en }}{% endif %}</a>
-          <!-- Menu list -->
-          <ul>
-            {% assign pages_menu = site.pages | sort:"order" | where:"location","menu" | where:"lang",page.lang %}
-            {% for page in pages_menu %}
-            <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endfor %}
-            <li>
-              <a href="#">{% if page.lang == "hu" %}{{ site.data.strings.titles.submenu.hu }}{% else %}{{ site.data.strings.titles.submenu.en }}{% endif %}</a>
-              <!-- Submenu list -->
-              <ul>
-                <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 1</a></li>
-                <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 2</a></li>
-                <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 3</a></li>
-                <li><a href="#">{% if page.lang == "hu" %}{{ site.data.strings.words.option.hu }}{% else %}{{ site.data.strings.words.option.en }}{% endif %} 4</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
+          <li class="button primary">
+            <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/en/{% endif %}">{% if page.lang == "en" %}{{ site.data.strings.words.lang.hu }}{% else %}{{ site.data.strings.words.lang.en }}{% endif %}</a></li>
       </ul>
     </nav>
   </header>

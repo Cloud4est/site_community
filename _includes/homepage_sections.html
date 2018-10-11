@@ -13,8 +13,8 @@
               <p>{{ post.description }}</p>
             </header>
           </div>
-          {% if post.div %}<div class="col-4 col-12-medium">
-            {% if post.middle %}<p>{{ post.middle }}</p>{% endif %}
+          {% if post.middle %}<div class="col-4 col-12-medium">
+            <p>{{ post.middle | markdownify }}</p>
           </div>
           <div class="col-4 col-12-medium">
             {{ post.content }}
