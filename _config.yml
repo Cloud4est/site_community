@@ -2,7 +2,7 @@
 title: Community
 timezone: Europe/Budapest
 collections:
-  authors:
+  posts-authors:
     title: Authors
     output: true
   pages:
