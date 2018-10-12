@@ -1,5 +1,5 @@
 ---
-title: Második szekció
+title: Cégre fel! - esetverseny
 date: 2018-09-18 00:00:00 +02:00
 lang: hu
 ref: Two
