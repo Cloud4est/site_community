@@ -5,9 +5,10 @@ lang: hu
 ref: Two
 after: Three
 order: 2
-style: spotlight style2 right
+style: spotlight style2 bottom
 image: "/uploads/achievement-agreement-arms-1068523.jpg"
-description: 
+description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal
+  is részt fogunk venni!
 location: home
 ---
 
