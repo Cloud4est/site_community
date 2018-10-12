@@ -6,7 +6,7 @@ ref: Two
 after: Three
 order: 2
 style: spotlight style2 right
-image: "/uploads/cegre%20fel.png"
+image: "/uploads/achievement-agreement-arms-1068523.jpg"
 description: 
 location: home
 ---
