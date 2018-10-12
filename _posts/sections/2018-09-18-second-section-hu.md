@@ -7,7 +7,7 @@ after: Three
 order: 2
 style: spotlight style2 right
 image: "/uploads/cegre%20fel.png"
-description: Nunc commodo accumsan eget id nisi eu col volutpat magna
+description: 
 location: home
 ---
 
