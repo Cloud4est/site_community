@@ -1,7 +1,7 @@
 # Cloud4est - _Community_
-- _ [Instructions](#Modifying-the-site) on modifying the site_
+- [Instructions](#modifying-the-site) on modifying the site
 
-- _ [Development guide](#Developing-the-site) of the site_
+- [Development guide](#developing-the-site) of the site
 
 - _This site is based on the following theme, its README is attached below:_
 > __Landed by HTML5 UP__  
@@ -20,14 +20,14 @@ you can use for pretty much whatever.
 > AJ
 aj@lkn.io | @ajlkn  
 > Credits:  
-- Demo Images:
-	* Unsplash (unsplash.com)  
-- Icons:
-	* Font Awesome (fontawesome.io)  
-- Other:  
-	* jQuery (jquery.com)
-	* Scrollex (github.com/ajlkn/jquery.scrollex)
-	* Responsive Tools (github.com/ajlkn/responsive-tools)
+> - Demo Images:
+	 * Unsplash (unsplash.com)  
+> - Icons:
+	 * Font Awesome (fontawesome.io)  
+> - Other:  
+	 * jQuery (jquery.com)
+	 * Scrollex (github.com/ajlkn/jquery.scrollex)
+	 * Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
 ## __Modifying the site:__
