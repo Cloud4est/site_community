@@ -8,7 +8,7 @@ ref: left-sidebar
 location: menu
 style: wrapper style1
 sidebar: left
-image: "/images/pic05.jpg"
+image: "/uploads/aerial-shot-aerial-view-bird-s-eye-view-1044329.jpg"
 layout: default
 ---
 
