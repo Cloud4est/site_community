@@ -5,6 +5,9 @@ titles:
   layouts:
     en: Layouts
     hu: Elrendezések
+  posts:
+    en: Posts
+    hu: Bejegyzések
   left_sidebar:
     en: Left sidebar
     hu: Bal oldalsáv
