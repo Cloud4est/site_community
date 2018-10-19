@@ -1,14 +1,14 @@
 ---
 title: Authors
 permalink: "/authors_en/"
-description: Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan
+description: 'A tevékenységek megfogalmazói:'
 order: 1
 lang: en
 ref: authors
 location: navbar
-layout: default
 style: wrapper style1
 icons: authors
+layout: default
 ---
 
 ### Authors subpage
