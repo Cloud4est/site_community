@@ -24,9 +24,9 @@
           <p>{{ post.content }}</p>
       </div>{% endif %}{% if post.middle %}
       </div>
-    </div>{% else %}
+    </div>{% elsif post.link %}
     <ul class="actions">
-      <li><a href="#" class="button">{% if page.lang == "hu" %}{{ site.data.strings.expressions.learn_more.hu }}{% else %}{{ site.data.strings.expressions.learn_more.en }}{% endif %}</a></li>
+      <li><a href="{{ site.baseurl }}/{{ post.link }}/" class="button">{% if post.link_text %}{{ post.link_text}}{% else %}{% if page.lang == "hu" %}{{ site.data.strings.expressions.learn_more.hu }}{% else %}{{ site.data.strings.expressions.learn_more.en }}{% endif %}{% endif %}</a></li>
     </ul>{% endif %}
   </div>
   <a href="#{{ post.after }}" class="goto-next scrolly">{% if page.lang == "hu" %}{{ site.data.strings.words.next.hu }}{% else %}{{ site.data.strings.words.next.en }}{% endif %}</a>

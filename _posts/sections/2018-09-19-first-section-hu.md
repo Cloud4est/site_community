@@ -13,6 +13,7 @@ image: "/images/pic02.jpg"
 description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai
   konferencia!
 location: home
+link: change_to_page_permalink
 ---
 
 Egy embertelenül izgalmas nap pécsi IT-sekkel és híres meghívottakkal.
