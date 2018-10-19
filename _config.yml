@@ -15,15 +15,14 @@ collections:
 email: youremailaddress@gmail.com
 baseurl: "/site_community"
 url: https://cloud4est.github.io
-pic: "/images/pic01.jpg"
+pic: "/images/CD4ST_logo.svg"
 banner: "/images/banner.jpg"
-overlay: "/assets/css/images/overlay.png"
-favicon: 
+# overlay: "/assets/css/images/overlay.png"
 twitter_url: https://twitter.com/CD4ST/
 facebook_url: https://facebook.com/CD4ST/
 github_url: https://github.com/Cloud4est/
-instagram_url: 
-linkedin_url: 
+instagram_url:
+linkedin_url:
 markdown: kramdown
 include:
 - _pages
