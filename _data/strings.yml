@@ -53,15 +53,12 @@ site:
   description:
     en:
         The community section of Cloud4est,
-        showcasing our </br>
-        main principles and goals,
-        which we are striving to achieve </br>
-        as a community.
+        where we share our </br>
+        accomplishments and gained experience.
     hu:
-        A Cloud4est közösségi szekciója
-        főbb elveinkkel és céljainkkal,</br>
-        amelyeket közösségként törekszünk
-        elérni.
+        A Cloud4est közösségi szekciója,
+        ahol a közösségként elért céljainkat,</br>
+        megszerzett tapasztalatainkat tesszük közzé.
   short_description:
     en: Cloud4est community site
     hu: Cloud4est közösségi oldal
