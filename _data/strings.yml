@@ -23,6 +23,9 @@ titles:
   elements:
     en: Elements
     hu: Elemek
+  topics:
+    en: Topics
+    hu: Témakörök
 words:
   next:
     en: Next
