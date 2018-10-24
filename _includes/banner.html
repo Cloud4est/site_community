@@ -7,5 +7,8 @@
       </header>
       <span class="image"><img src="{{ site.pic | prepend: site.baseurl }}" alt="" /></span>
     </div>
-    <a href="#One" class="goto-next scrolly">{% if page.lang == "hu" %}{{ site.data.strings.words.next.hu }}{% else %}{{ site.data.strings.words.next.en }}{% endif %}</a>
+    {% assign first_featured = site.posts | where:"featured","true" | where:"lang",page.lang | where:"order","1" %}
+    {% for post in first_featured %}
+    <a href="#{{ post.ref }}" class="goto-next scrolly">{% if page.lang == "hu" %}Következő{% else %}Next{% endif %}</a>
+    {% endfor %}
   </section>
