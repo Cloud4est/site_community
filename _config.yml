@@ -2,9 +2,6 @@
 title: Community
 timezone: Europe/Budapest
 collections:
-  authors:
-    title: Authors
-    output: true
   posts:
     title: Posts
     output: true
