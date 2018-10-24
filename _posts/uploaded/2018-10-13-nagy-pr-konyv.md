@@ -1,5 +1,6 @@
 ---
 title: A Nagy PR Receptkönyv
+date: 2018-10-13 00:00:00 +02:00
 permalink: "/nagy-pr-konyv/"
 description: Ferling József
 order: 1

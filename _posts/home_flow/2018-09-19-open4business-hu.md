@@ -1,6 +1,7 @@
 ---
 title: Open4business 2018
 date: 2018-09-19 00:00:00 +02:00
+permalink: "/open4business/"
 lang: hu
 layout: default
 ref: open4business
@@ -8,9 +9,9 @@ following: case-solvers
 order: 1
 style: spotlight style1 bottom
 image: "/uploads/410637.jpg"
-description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai konferencia!
+description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai
+  konferencia!
 featured: true
-permalink: "/open4business/"
 author: Kutsera Róbert
 topic: event
 ---

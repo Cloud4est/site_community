@@ -1,10 +1,10 @@
 ---
 title: Adatgyűjtés kérdése
 date: 2018-09-17 00:00:00 +02:00
+permalink: "/adatgyujtes-kerdese/"
 lang: hu
 layout: default
 ref: Three
-permalink: /adatgyujtes-kerdese/
 following: Four
 order: 3
 style: spotlight style3 left
