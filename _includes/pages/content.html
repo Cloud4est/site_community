@@ -1,8 +1,11 @@
 <!-- Content -->
 <section id="content">
   {% assign current_page = site.pages | where:"ref",page.ref | where:"lang",page.lang %}
-  {% if page.image %}{% for page in current_page %}
+  {% assign current_post = site.posts | where:"ref",post.ref | where:"lang",post.lang %}
+  {% if page.image %}
   <a href="#" class="image fit"><img src="{{ page.image | prepend: site.baseurl }}" alt="" /></a>
-  {% endfor %}{% endif %}
+  {% elsif post.image %}
+  <a href="#" class="image fit"><img src="{{ post.image | prepend: site.baseurl }}" alt="" /></a>
+  {% endif %}
   {{ content }}
 </section>
