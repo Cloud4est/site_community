@@ -30,7 +30,7 @@ az idõkeret, ami nem valami jó tényezõ.
 Találkoztunk is, 18:30 kor, és beültünk egy bevásárló központba megvitatni a témát. Záráskor jöttünk ki. Majd még két órát dumáltunk és szerencsésen összefutottunk több emberrel is aki a segítségünkre lehetett.
 Na de térjünk vissza a könyvhöz. Soha életemben nem hallottam Ferling József nevét, pedig a cégének az irodája pontosan egy házra van az iskolától és az egész országban elismert PR szakember. A könyv alapján
 nagyon tudja, hogy  mit csinál.
-Érdekes világra adott egy tûhegynyi bepillantást. Magával ragadó világ ez, és hihetetlenül mennyiségü gondolatot képes adni.
+Érdekes világra adott egy tûhegynyi bepillantást. Magával ragadó világ ez, és hihetetlenül nagy mennyiségű gondolatot képes adni.
 Viszont amire másnap rá kellett jönnünk az az, hogy egy ötlet megvalósításához egy háromszögre van szükség. Ez az idõ - pénz - ember háromszög. Jelen esetben 4 hetünk van. A tõke jelenleg kerek 0Ft és az
 az emberekbõl sincs túl nagy mennyiség. Ha mindenkit beleveszünk, jobb esetben 22 en vagyunk. Nem egy egyszerû helyzet de már van megoldásunk. Kipróbáljuk és ha nem jön be, jön a következõ ötlet boncolása amíg
 valami nem sikerül. Errõl szól a dolog.
