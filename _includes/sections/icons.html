@@ -3,29 +3,31 @@
     <div class="container">
       <div class="box alt">
         <div class="row gtr-uniform">
-          {% assign authors = site.posts | sort:"order" | where: "type","author" | where:"lang",page.lang %}
-          {% assign topics = site.posts | sort:"order" | where: "type","topic" | where:"lang",page.lang %}
+          {% assign authors = site.pages | sort:"order" | where: "type","author" | where:"lang",page.lang %}
+          {% assign topics = site.pages | sort:"order" | where: "type","topic" | where:"lang",page.lang %}
 
           {% if page.icons == 'authors' %}
 
-          {% for post in authors %}
-          <!-- {{ post.title }} -->
+          {% for page in authors %}
+          <!-- {{ page.title }} -->
+          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.permalink | prepend: site.baseurl }}">
           <section class="col-4 col-6-medium col-12-xsmall">
-            <span class="icon alt major {{ post.icon }}"></span>
-            <h3>{{ post.title }}</h3>
-            <p>{{ post.description }}</p>
-          </section>
+            <span class="icon alt major {{ page.icon }}"></span>
+            <h3>{{ page.title }}</h3>
+            <p>{{ page.description }}</p>
+          </section></a>
           {% endfor %}
 
           {% elsif page.icons == 'topics' %}
 
-          {% for post in topics %}
-          <!-- {{ post.title }} -->
+          {% for page in topics %}
+          <!-- {{ page.title }} -->
+          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.permalink | prepend: site.baseurl }}">
           <section class="col-4 col-6-medium col-12-xsmall">
-            <span class="icon alt major {{ post.icon }}"></span>
-            <h3>{{ post.title }}</h3>
-            <p>{{ post.description }}</p>
-          </section>
+            <span class="icon alt major {{ page.icon }}"></span>
+            <h3>{{ page.title }}</h3>
+            <p>{{ page.description }}</p>
+          </section></a>
           {% endfor %}
 
           {% endif %}
