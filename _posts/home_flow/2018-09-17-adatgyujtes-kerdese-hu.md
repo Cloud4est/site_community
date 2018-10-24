@@ -22,7 +22,7 @@ ami hosszas gondolkodás után elkészült, aminek rendkívül örültünk, mive
 fárasztó munka összerakni az űrlapot.
 Törekedtünk a cél minél energiatakarékosabb megvalósításra, ezért viszonylag kevés, lényegretörő kérdést intéztünk,
 amire sok és sokszínű válaszok adhatóak. A terv az volt, hogy a többszörös válaszok több adatmezőt jelentenek és
-így szeparálva őket, a szinonímák egy adott kulccsóra cserélése után összegezve a begyűjtött adatokat
+így szeparálva őket, a szinonímák egy adott kulcsszóra cserélése után összegezve a begyűjtött adatokat
 következtetést tudjunk levonni, valamint a célközönség, a gimnazisták érdeklődését annyira felkelteni,
 hogy érezzék azt, hogy érdekükben áll nem poénra venni a kérdőívünket, hanem őszintén kitölteni azt.
 Ekkor valaki rámutatott arra, hogy a kérdések nem célszerűek adatelemzés szempontjából,
