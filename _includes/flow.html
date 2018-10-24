@@ -1,0 +1,25 @@
+<!-- Flow start -->
+{% assign homepage_sections = site.posts | sort:"order" | where:"featured","true" | where:"lang",page.lang %}
+{% assign author_sections = site.posts | sort:"order" | where:"author",page.title | where:"lang",page.lang %}
+{% assign topic_sections = site.posts | sort:"order" | where:"topic",page.topic | where:"lang",page.lang %}
+
+{% if page.ref == "index" %}
+<!-- Featured sections -->
+{% for post in homepage_sections %}
+{% include sections/sliding_sections.html %}
+{% endfor %}
+
+{% elsif page.type == "author" %}
+<!-- Authors sections -->
+{% for post in author_sections %}
+{% include sections/sliding_sections.html %}
+{% endfor %}
+
+{% elsif page.type == "topic" %}
+<!-- Topic sections -->
+{% for post in topic_sections %}
+{% include sections/sliding_sections.html %}
+{% endfor %}
+
+{% endif %}
+<!-- Flow end -->

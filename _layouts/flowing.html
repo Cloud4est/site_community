@@ -10,9 +10,15 @@
 
 			{% include general/navbar.html %}
 
-				{% include main.html %}
+			{% if page.ref == "index" %}
+      {% include banner.html %}
+			{% else %}
+			{% include main.html %}
+			{% endif %}
+			
+      {% include flow.html %}
 
-			{% include general/footer.html %}
+      {% include general/footer.html %}
 
 		</div>
 

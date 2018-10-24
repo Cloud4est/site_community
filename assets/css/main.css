@@ -887,6 +887,16 @@ input, select, textarea {
 					padding-top: 2.5em;
 				}
 
+					.row.gtr-uniform > a {
+						border-bottom: none;
+						color: rgba(255, 255, 255, 0.75);
+					}
+
+						.row.gtr-uniform > a.active {
+							border-bottom: none;
+							color: #e44c65;
+						}
+
 		.row.gtr-150 {
 			margin-top: 0;
 			margin-left: -3.75em;
@@ -2446,7 +2456,6 @@ input, select, textarea {
 		.icon.major {
 			background: #272833;
 			border-radius: 100%;
-			cursor: default;
 			display: inline-block;
 			height: 6em;
 			line-height: 6em;

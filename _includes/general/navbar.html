@@ -1,0 +1,47 @@
+<!-- Navbar start -->
+  <header id="header">
+    <h1 id="logo"><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.site.title.hu }}{% else %}{{ site.data.strings.site.title.en }}{% endif %}</a></h1>
+    <nav id="nav">
+      <ul>
+        <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}Főoldal{% else %}Home{% endif %}</a></li>
+        <!-- Topics page -->
+          <li>
+            {% assign topics_page = site.pages | where:"ref","topics" | where:"lang",page.lang %}
+            {% for page in topics_page %}
+            <a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endfor %}
+            <!-- Topics list -->
+            <ul>
+              {% assign topics_list = site.pages | sort:"order" | where:"type","topic" | where:"lang",page.lang %}
+              {% for page in topics_list %}
+              <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+            <!-- Authors page -->
+          <li>
+            {% assign authors_page = site.pages | where:"ref","authors" | where:"lang",page.lang %}
+            {% for page in authors_page %}
+            <a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endfor %}
+            <!-- Authors list -->
+            <ul>
+              {% assign authors_list = site.pages | sort:"order" | where:"type","author" | where:"lang",page.lang %}
+              {% for page in authors_list %}
+              <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <!-- List additional pages -->
+          {% assign pages_navbar = site.pages | sort:"order" | where:"location","navbar" | where:"lang",page.lang %}
+          {% for page in pages_navbar %}
+          <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endfor %}
+          <!-- Language switch -->
+          <li class="button primary">
+            <a href="{% if page.lang == "en" %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/en/{% endif %}">{% if page.lang == "en" %}Váltás magyarra{% else %}Switch to English{% endif %}</a></li>
+      </ul>
+    </nav>
+  </header>
+
+<!-- Navbar end -->

@@ -1,0 +1,34 @@
+<section id="{{ post.ref }}" class="{{ post.style }}">
+  <span class="image fit main"><img src="{{ post.image | prepend: site.baseurl }}" alt="" /></span>
+  <div class="content">{% if post.style == "spotlight style1 bottom" %}
+    <div class="container">
+      <div class="row">{% endif %}
+        <div class="col-4 col-12-medium">
+          <header{% if post.major %} class="major"{% endif %}>
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.description }}</p>
+          </header>
+        </div>
+        {% if post.style == "spotlight style1 bottom" %}
+        <div class="col-4 col-12-medium">
+          {{ post.content | truncatewords: 56 }}
+        </div>
+        <div class="col-4 col-12-medium">
+          <ul class="actions">
+            <li><a href="{{ site.baseurl }}{{ post.permalink }}" class="button">{% if post.link_text %}{{ post.link_text }}{% else %}{% if page.lang == "hu" %}Tudj meg többet{% else %}Learn more{% endif %}{% endif %}</a></li>
+          </ul>
+        </div>
+      {% else %}
+      <div class="col-4 col-12-medium">
+        <p>{{ post.content | truncatewords: 50 }}</p>
+    </div>{% endif %}{% if post.style == "spotlight style1 bottom" %}
+    </div>
+  </div>{% elsif post.permalink %}
+  <div class="col-4 col-12-medium">
+    <ul class="actions">
+      <li><a href="{{ site.baseurl }}{{ post.permalink }}" class="button">{% if page.lang == "hu" %}Tudj meg többet{% else %}Learn more{% endif %}</a></li>
+    </ul>
+  </div>
+{% endif %}
+</div>
+</section>
