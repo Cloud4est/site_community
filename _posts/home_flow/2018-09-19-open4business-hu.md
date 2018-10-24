@@ -7,7 +7,7 @@ ref: open4business
 following: case-solvers
 order: 1
 style: spotlight style1 bottom
-image: "/images/pic02.jpg"
+image: "/uploads/410637.jpg"
 description: A baranyai iparkamara ITC szekciójának szervezésében megvalósult szakmai konferencia!
 featured: true
 permalink: "/open4business/"

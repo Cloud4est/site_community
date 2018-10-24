@@ -8,7 +8,7 @@ permalink: /adatgyujtes-kerdese/
 following: Four
 order: 3
 style: spotlight style3 left
-image: "/images/pic06.jpg"
+image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Minőség / mennyiség
 featured: true
 author: Götz Máté
