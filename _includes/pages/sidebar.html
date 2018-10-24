@@ -1,18 +1,18 @@
 <!-- Sidebar -->
   <section id="sidebar">
-{% assign sidebars = site.posts | sort:"order" | where:"type","sidebar" | where_exp: "post","post.location == page.title" | where:"lang",page.lang %}
-{% for post in sidebars %}
-<!-- Sidebar sections -->
+    <!-- Sidebar sections -->
     <section>
-      <h3>{{ post.title }}</h3>
-      <p>{{ post.content }}</p>
+      <h3>{{ page.author }}</h3>
+      <p>{{ page.date | date: "%Y/%m/%d" }}</p>
       <footer>
         <ul class="actions">
-          <li><a href="#" class="button">{% if page.lang == "hu" %}{{ site.data.strings.expressions.learn_more.hu }}{% else %}{{ site.data.strings.expressions.learn_more.en }}{% endif %}</a></li>
+          {% assign author_permalink = site.pages | where:"type","author" | where:"title",page.author | where:"lang",page.lang %}
+          {% for link in author_permalink %}
+          <li><a href="{{ site.baseurl }}{{ link.permalink }}" class="button">{% if page.lang == "hu" %}Tudj meg többet{% else %}Learn more{% endif %}</a></li>
+          {% endfor %}
         </ul>
       </footer>
     </section>
     <hr />
-    {% endfor %}
 
   </section>
