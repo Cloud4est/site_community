@@ -2,16 +2,16 @@
 title: A Nagy PR Receptkönyv
 date: 2018-10-13 00:00:00 +02:00
 permalink: "/nagy-pr-konyv/"
-description: Ferling József
+description: Ferling József könyve
 order: 1
 lang: hu
 ref: nagy-pr-konyv
 style: spotlight style1 bottom
 sidebar: left
 image: "/uploads/adult-cellphone-chat-1083627.jpg"
-layout: default
 author: Nagy Ádám
 topic: story
+layout: default
 ---
 
 Az a szerencse ért nemrég, hogy a kezembe került egy példány a mûbõl. Nem egy hosszú könyvrõl van szó, nagyjából 120 oldal, így 2 nap alatt sikerült is kiolvasnom.
