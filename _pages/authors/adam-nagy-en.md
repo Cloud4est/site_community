@@ -8,9 +8,9 @@ author: Ádám Nagy
 ref: icon-one
 image: "/uploads/adam_the_great.jpeg"
 profpic: true
-description: I'm interested in kayak, climbing and running. I'm a co-founder of Cloud4est
-  and one of the core members. I learned C++, JavaScript, HTML, and CSS but I'm not
-  working with them. Recently I study orbital mechanics and space exploration.
+description: I'm a co-founder of Cloud4est and one of the core members. I'm interested
+  in kayak, climbing and running. I learned C++, JavaScript, HTML, and CSS but I'm
+  not working with them. Recently I study orbital mechanics and space exploration.
 layout: flowing
 ---
 
