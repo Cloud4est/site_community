@@ -6,10 +6,11 @@ lang: hu
 type: author
 author: Ádám Nagy
 ref: icon-one
-layout: flowing
 image: "/uploads/adam_the_great.jpeg"
 profpic: true
-description: Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci
-  porttitor.
+description: " A Cloud4est társalapítója vagyok. Érdekel a kajak-kenu,a sziklamászás
+  és a futás. Tanultam C++-t, JavaScript-et, HTML-t és CSS is de nem dolgozom velük.
+  Jelenleg az űrkutatás foglalkoztat."
+layout: flowing
 ---
 
