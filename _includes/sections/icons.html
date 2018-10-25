@@ -3,8 +3,8 @@
     <div class="container">
       <div class="box alt">
         <div class="row gtr-uniform">
-          {% assign authors = site.pages | sort:"order" | where: "type","author" | where:"lang",page.lang %}
-          {% assign topics = site.pages | sort:"order" | where: "type","topic" | where:"lang",page.lang %}
+          {% assign authors = site.pages | sort:"date" | where: "type","author" | where:"lang",page.lang %}
+          {% assign topics = site.pages | sort:"date" | where: "type","topic" | where:"lang",page.lang %}
 
           {% if page.icons == 'authors' %}
 
