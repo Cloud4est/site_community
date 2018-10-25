@@ -11,7 +11,7 @@
         </div>
         {% if post.style == "spotlight style1 bottom" %}
         <div class="col-4 col-12-medium">
-          {{ post.content | truncatewords: 56 }}
+          {{ post.content | truncatewords: 30 }}
         </div>
         <div class="col-4 col-12-medium">
           <ul class="actions">
@@ -20,7 +20,7 @@
         </div>
       {% else %}
       <div class="col-4 col-12-medium">
-        <p>{{ post.content | truncatewords: 50 }}</p>
+        <p>{{ post.content | truncatewords: 30 }}</p>
     </div>{% endif %}{% if post.style == "spotlight style1 bottom" %}
     </div>
   </div>{% elsif post.permalink %}
