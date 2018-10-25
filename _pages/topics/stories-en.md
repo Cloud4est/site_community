@@ -7,8 +7,9 @@ type: topic
 topic: story
 ref: icon-one
 layout: flowing
-image:
+image: 
 profpic: true
 description: Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci
   porttitor.
 ---
+

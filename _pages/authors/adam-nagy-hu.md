@@ -7,8 +7,9 @@ type: author
 author: Ádám Nagy
 ref: icon-one
 layout: flowing
-image: /uploads/adam_the_great.jpeg
+image: "/uploads/adam_the_great.jpeg"
 profpic: true
 description: Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci
   porttitor.
 ---
+
