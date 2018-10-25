@@ -2543,6 +2543,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.profpic img {
+				border-radius: 50%;
+				width: 7em;
+				height: 7em;
+				margin: 0 0 2em 0;
+			}
+
 /* List */
 
 	ol {
