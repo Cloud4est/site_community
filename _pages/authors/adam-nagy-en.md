@@ -6,10 +6,10 @@ lang: en
 type: author
 author: Ádám Nagy
 ref: icon-one
-layout: flowing
-image: 
+image: "/uploads/adam_the_great.jpeg"
 profpic: true
-description: Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci
-  porttitor.
+description: I'm a co-founder of Cloud4est and one of the core members. I'm interested
+  in kayak, climbing and running. Recently I study orbital mechanics and space exploration.
+layout: flowing
 ---
 
