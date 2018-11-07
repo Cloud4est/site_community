@@ -9,6 +9,8 @@ ref: mate-gotz
 layout: flowing
 image: 
 profpic: true
-description: A Cloud4est társalapítójaként fontosnak tartom saját magam képzését. Főleg kémiával szeretnék továbbtanulni, de emelett érdekel a matematika, a programozás, főleg a Python nyelv és mindemellett verseket is írok.
+description: A Cloud4est társalapítójaként fontosnak tartom saját magam képzését.
+  Főleg kémiával szeretnék továbbtanulni, de emelett érdekel a matematika, a programozás,
+  főleg a Python nyelv és mindemellett verseket is írok.
 ---
 
