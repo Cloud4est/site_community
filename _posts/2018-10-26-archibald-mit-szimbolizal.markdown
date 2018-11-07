@@ -13,6 +13,6 @@ Sokat gondolkodtunk rajta, hogy hogyan kéne megmutatni a Cloud4est sokszínűs�
 
 De miért is pont egy kabala?
 
-Arra gondoltunk, hogy mivel sokan vagyunk, ha be akarnánk mutatni a tagok sokszínűségét magukkal a tagokkal fémjelezve, akkor túl sok változó arc lenne az amúgy is változó környezetben. Így viszont Archi bárkivel mehet bármerre, Archibald Archibald marad a történetekben. Így kölső szemlélőnek is könnyebb követnie a történéseket.
+Arra gondoltunk, hogy mivel sokan vagyunk, ha be akarnánk mutatni a tagok sokszínűségét magukkal a tagokkal fémjelezve, akkor túl sok változó arc lenne az amúgy is változó környezetben. Így viszont Archi bárkivel mehet bármerre, Archibald Archibald marad a történetekben. Így külső szemlélőnek is könnyebb követnie a történéseket.
 
 Reméljük sikerül elérni a kitűzött célunkat. Kövesd Archi kalandjait Facebook-oldalunkon!
