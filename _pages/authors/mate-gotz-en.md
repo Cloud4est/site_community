@@ -5,11 +5,10 @@ permalink: "/authors/mate-gotz-en/"
 lang: en
 type: author
 author: Máté Götz
-ref: icon-two
+ref: mate-gotz
 layout: flowing
-image: 
+image:
 profpic: true
-description: Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci
-  porttitor.
+description: As a co-founder of Cloud4est, I find it important to develop myself.
+  Mostly, I would like to study Chemistry, but in addition to that, I'm interested in Maths, programming (mostly Python), and I also write poems frequently.
 ---
-

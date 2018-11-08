@@ -3,7 +3,7 @@ title: Adatgyűjtés kérdése
 date: 2018-09-17 00:00:00 +02:00
 permalink: "/adatgyujtes-kerdese/"
 lang: hu
-ref: Three
+ref: quantity-or-quality
 following: Four
 order: 3
 style: spotlight style3 left
@@ -17,7 +17,7 @@ layout: default
 
 Sziasztok!
 
-A minap felmerült egy tájékozódás céljából készítendő Google Form terve,
+A minap felmerült egy tájékozódás céljából készítendő kérdőív terve,
 ami hosszas gondolkodás után elkészült, aminek rendkívül örültünk, mivel nem volt túl nehézkes,
 fárasztó munka összerakni az űrlapot.
 Törekedtünk a cél minél energiatakarékosabb megvalósításra, ezért viszonylag kevés, lényegretörő kérdést intéztünk,

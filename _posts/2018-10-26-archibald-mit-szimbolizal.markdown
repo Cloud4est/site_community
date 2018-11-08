@@ -1,15 +1,24 @@
 ---
 title: Archibald - mit szimbolizál?
 date: 2018-10-26 21:14:00 +02:00
-tags:
-- Archi
+permalink: "/archi-symbol/"
+lang: hu
+layout: default
+ref: archi-symbol
+style: spotlight style2 right
+image: "/uploads/archi-mountain.jpg"
+description: A Cloud4est új tagja, mégpedig nem ember
+featured: true
+author: Nagy Ádám
+topic: story
+
 ---
 
-A Facebook oldalunkon járva láthattátok az új kampányunkat melynek főszereplője Archibald, egy farkas. 
+A Facebook oldalunkon járva láthattátok az új kampányunkat melynek főszereplője Archibald, egy farkas.
 
-Sokat gondolkodtunk rajta, hogy hogyan kéne megmutatni a Cloud4est sokszínűségét nektek. Egész merész ötleteket is számításba vettünk, de végül Kutsera Róberttől jött a nyertes ötlet. Legyen egy kabalánk, aki mindig mással tölt némi időt. 
+Sokat gondolkodtunk rajta, hogy hogyan kéne megmutatni a Cloud4est sokszínűségét nektek. Egész merész ötleteket is számításba vettünk, de végül Kutsera Róberttől jött a nyertes ötlet. Legyen egy kabalánk, aki mindig mással tölt némi időt.
 
-Így történt, hogy Archi eljött velünk egy megbeszélésre, moziba és még pár helyre. Jelenleg velem járja az országot és csinál mindenféle érdekes dolgot. 
+Így történt, hogy Archi eljött velünk egy megbeszélésre, moziba és még pár helyre. Jelenleg velem járja az országot és csinál mindenféle érdekes dolgot.
 
 De miért is pont egy kabala?
 
