@@ -4,7 +4,8 @@ date: 2018-09-18 00:00:00 +02:00
 lang: hu
 style: right
 image: "/uploads/achievement-agreement-arms-1068523.jpg"
-description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal is részt fogunk venni!
+description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal
+  is részt fogunk venni!
 is-featured: false
 author: Nagy Ádám
 topic: események

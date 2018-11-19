@@ -6,3 +6,4 @@ image: "/uploads/adam_the_great.jpeg"
 description: " A Cloud4est társalapítója vagyok. Érdekel a kajak-kenu, a sziklamászás
   és a futás. Jelenleg az űrkutatás foglalkoztat."
 ---
+

@@ -2,15 +2,43 @@
 title: Community
 timezone: Europe/Budapest
 collections:
+  authors:
+    title: Authors
+    output: true
+    permalink: "/authors/:path/"
+  langs:
+    title: Langs
+    output: false
   posts:
     title: Posts
     output: true
-    location: home
+  topics:
+    title: Topics
+    output: true
+    permalink: "/topics/:path/"
   uploads:
     title: Uploads
-    output: true
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: flowing
+    type: author
+- scope:
+    path: ''
+    type: topics
+  values:
+    layout: flowing
+    type: topic
 email: youremailaddress@gmail.com
-baseurl:
+baseurl: 
 url: https://community.cloud4est.com
 pic: "/images/CD4ST_logo.svg"
 banner: "/images/banner.jpg"
@@ -18,39 +46,7 @@ twitter_url: https://twitter.com/CD4ST/
 facebook_url: https://facebook.com/CD4ST/
 github_url: https://github.com/Cloud4est/
 instagram_url: https://instagram.com/cloud4st/
-linkedin_url:
+linkedin_url: 
 markdown: kramdown
 include:
 - _pages
-defaults:
-  -
-    scope:
-      type: "posts"
-    values:
-      layout: "default"
-  -
-    scope:
-      type: "authors"
-    values:
-      layout: "flowing"
-      type: "author"
-  -
-    scope:
-      type: "topics"
-    values:
-      layout: "flowing"
-      type: "topic"
-collections:
-  posts:
-    output: true
-    permalink: /posts/:path/
-  authors:
-    output: true
-    permalink: /authors/:path/
-  topics:
-    output: true
-    permalink: /topics/:path/
-  langs:
-    output: false
-  uploads:
-    output: false
