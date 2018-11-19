@@ -1,18 +1,13 @@
 ---
 title: Quantity or quality?
 date: 2018-11-07 15:24:00 +01:00
-permalink: "/quantity-or-quality/"
 lang: en
-layout: default
-ref: quantity-or-quality
-following: Four
-order: 3
 style: left
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Quantity / quality
-featured: true
+is-featured: true
 author: Máté Götz
-topic: story
+topic: stories
 ---
 
 Hi everyone,

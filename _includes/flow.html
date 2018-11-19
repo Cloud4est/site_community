@@ -1,23 +1,26 @@
 <!-- Flow start -->
-{% assign homepage_sections = site.posts | sort:"order" | where:"featured","true" | where:"lang",page.lang %}
-{% assign author_sections = site.posts | sort:"order" | where:"author",page.title | where:"lang",page.lang %}
-{% assign topic_sections = site.posts | sort:"order" | where:"topic",page.topic | where:"lang",page.lang %}
 
 {% if page.ref == "index" %}
 <!-- Featured sections -->
-{% for post in homepage_sections %}
+{% assign homepage_sections = site.posts | sort:"date" | where:"is-featured","true" | where:"lang",page.lang %}
+
+{% for post in homepage_sections reversed %}
 {% include sections/sliding_sections.html %}
 {% endfor %}
 
 {% elsif page.type == "author" %}
 <!-- Authors sections -->
-{% for post in author_sections %}
+{% assign author_sections = site.posts | sort:"date" | where:"author",page.title | where:"lang",page.lang %}
+
+{% for post in author_sections reversed %}
 {% include sections/sliding_sections.html %}
 {% endfor %}
 
 {% elsif page.type == "topic" %}
 <!-- Topic sections -->
-{% for post in topic_sections %}
+{% assign topic_sections = site.posts | sort:"date" | where:"topic",page.title | where:"lang",page.lang %}
+
+{% for post in topic_sections reversed %}
 {% include sections/sliding_sections.html %}
 {% endfor %}
 

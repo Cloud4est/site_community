@@ -1,17 +1,13 @@
 ---
 title: Archibald - mit szimbolizál?
 date: 2018-10-26 21:14:00 +02:00
-permalink: "/archi-symbol/"
 lang: hu
-layout: default
-ref: archi-symbol
 style: right
 image: "/uploads/archi-mountain.jpg"
-description: A Cloud4est új tagja, mégpedig nem ember
-featured: true
+description: A Cloud4est első, nem emberi tagja
+is-featured: true
 author: Nagy Ádám
-topic: story
-
+topic: történetek
 ---
 
 A Facebook oldalunkon járva láthattátok az új kampányunkat melynek főszereplője Archibald, egy farkas.

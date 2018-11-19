@@ -2,7 +2,14 @@
   <div id="main" class="wrapper style1">
     <div class="container">
       <header class="major">
+        {% if page.type %}
+        <span class="image"><img src="{{ page.image | prepend: site.baseurl }}" alt="" /></span>
+        {% endif %}
+        {% if page.type == "author" %}
         <h2>{{ page.title }}</h2>
+        {% else %}
+        <h2>{{ page.title | capitalize }}</h2>
+        {% endif %}
         <p>{{ page.description }}</p>
       </header>
       {% if page.icons != null %}

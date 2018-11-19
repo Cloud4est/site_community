@@ -1,6 +1,6 @@
 <!-- Content -->
 <section id="content">
-  {% if page.profpic != true %}
+  {% if page.type == null %}
   <a href="#" class="image fit"><img src="{{ page.image | prepend: site.baseurl }}" alt="" /></a>
   {% endif %}
   {{ content }}

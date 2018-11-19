@@ -1,16 +1,16 @@
-<!-- Icons - {{ page.ref }} -->
+<!-- Icons - {{ page.title }} -->
   <section id="icons" class="wrapper style1 special fade-up">
     <div class="container">
       <div class="box alt">
         <div class="row gtr-uniform">
-          {% assign authors = site.pages | sort:"date" | where: "type","author" | where:"lang",page.lang %}
-          {% assign topics = site.pages | sort:"date" | where: "type","topic" | where:"lang",page.lang %}
+          {% assign authors = site.authors | sort:"date" | where:"lang",page.lang %}
+          {% assign topics = site.topics | sort:"date" | where:"lang",page.lang %}
 
           {% if page.icons == 'authors' %}
 
           {% for page in authors %}
           <!-- {{ page.title }} -->
-          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.permalink | prepend: site.baseurl }}">
+          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.url | prepend: site.baseurl }}">
           <section class="col-4 col-6-medium col-12-xsmall">
             <span class="image profpic"><img src="{{ page.image | prepend: site.baseurl }}" alt=""/></span>
             <h3>{{ page.title }}</h3>
@@ -22,10 +22,10 @@
 
           {% for page in topics %}
           <!-- {{ page.title }} -->
-          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.permalink | prepend: site.baseurl }}">
+          <a class="col-4 col-6-medium col-12-xsmall" href="{{ page.url | prepend: site.baseurl }}">
           <section class="col-4 col-6-medium col-12-xsmall">
             <span class="image profpic"><img src="{{ page.image | prepend: site.baseurl }}" alt=""/></span>
-            <h3>{{ page.title }}</h3>
+            <h3>{{ page.title | capitalize }}</h3>
             <p>{{ page.description }}</p>
           </section></a>
           {% endfor %}
