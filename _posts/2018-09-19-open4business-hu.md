@@ -4,7 +4,8 @@ date: 2018-09-19 00:00:00 +02:00
 lang: hu
 style: bottom
 image: "/uploads/410637.jpg"
-description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai konferencia!
+description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai
+  konferencia!
 is-featured: true
 author: Kutsera Róbert
 topic: események

@@ -6,3 +6,4 @@ image: "/uploads/adam_the_great.jpeg"
 description: I'm a co-founder of Cloud4est and one of the core members. I'm interested
   in kayak, climbing and running. Recently I study orbital mechanics and space exploration.
 ---
+
