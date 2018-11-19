@@ -14,7 +14,7 @@ Hi everyone,
 
 recently we came up with an idea of creating a form for data collecting purposes. It was only after a relatively long time when we finished with it.
 
-At first, it seemed like it was an easy task, we thought that it's not a big thing to create a form. That's why we tried to complete it as efficiently as we could, so we've asked only a few, but straight-forward questions that could be answered very diversely.
+At first, it seemed like it was an easy task, we thought that it's not a big thing to create a form. That's why we tried to complete it as efficiently as we could, so we've asked only a few, but straightforward questions that could be answered very diversely.
 
 The plan was to obtain the biggest possible amount of data per question, so that we can later separate them, change the synonyms to a given keyword, take the summary of the collected data and finally, get to a conclusion.
 
@@ -24,4 +24,4 @@ We just finished when someone pointed out, that our questions are not as optimal
 
 It was also a question whether we need the kind of questions that give us no direct information, just (according to some of us) have a psychological effect on the respondents.
 
-As you can see, we have conflicts too. It happens obligately because of the fact that groups are bigger than one person. The acot not-aggreeing cannot cause war and offendedness amongst us, as long as the debate is moderated. That is why we agreed to host a debate on the subject and also ask the opinion of the audience, the readers, and you too. Feel free to comment, argue, pick a side, suggest a better objective, or make some notes! Your opinion counts too!
+As you can see, we have conflicts too. It happens obligately because of the fact that groups are bigger than one person. The act of not-aggreeing cannot cause war and offendedness amongst us, as long as the debate is moderated. That is why we agreed to host a debate on the subject and also ask the opinion of the audience, the readers, and you too. Feel free to comment, argue, pick a side, suggest a better objective, or make some notes! Your opinion counts too!
