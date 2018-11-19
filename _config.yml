@@ -2,23 +2,23 @@
 title: Community
 timezone: Europe/Budapest
 collections:
+  posts:
+    title: Posts
+    output: true
   authors:
     title: Authors
     output: true
     permalink: "/authors/:path/"
+  topics:
+    title: Topics
+    output: true
+    permalink: "/topics/:path/"
   langs:
     title: Languages
     output: false
   styles:
     title: Styles
     output: false
-  posts:
-    title: Posts
-    output: true
-  topics:
-    title: Topics
-    output: true
-    permalink: "/topics/:path/"
   uploads:
     title: Uploads
     output: false
