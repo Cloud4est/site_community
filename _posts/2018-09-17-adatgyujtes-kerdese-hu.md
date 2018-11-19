@@ -1,18 +1,13 @@
 ---
 title: Adatgyűjtés kérdése
 date: 2018-09-17 00:00:00 +02:00
-permalink: "/adatgyujtes-kerdese/"
 lang: hu
-ref: quantity-or-quality
-following: Four
-order: 3
 style: left
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Minőség / mennyiség
-featured: true
+is-featured: true
 author: Götz Máté
-topic: story
-layout: default
+topic: történetek
 ---
 
 Sziasztok!

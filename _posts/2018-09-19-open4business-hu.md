@@ -1,19 +1,13 @@
 ---
 title: Open4business 2018
 date: 2018-09-19 00:00:00 +02:00
-permalink: "/open4business/"
 lang: hu
-ref: open4business
-following: case-solvers
-order: 1
 style: bottom
 image: "/uploads/410637.jpg"
-description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai
-  konferencia!
-featured: true
+description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai konferencia!
+is-featured: true
 author: Kutsera Róbert
-topic: event
-layout: default
+topic: események
 ---
 
 Egy embertelenül izgalmas nap pécsi IT-sekkel és híres meghívottakkal.

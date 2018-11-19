@@ -1,19 +1,13 @@
 ---
 title: Cégre fel! - esetverseny
 date: 2018-09-18 00:00:00 +02:00
-permalink: "/case-solvers/"
 lang: hu
-layout: default
-ref: case-solvers
-following: Three
-order: 2
 style: right
 image: "/uploads/achievement-agreement-arms-1068523.jpg"
-description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal
-  is részt fogunk venni!
-featured: false
+description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal is részt fogunk venni!
+is-featured: false
 author: Nagy Ádám
-topic: event
+topic: események
 ---
 
 A verseny lényege, hogy 3 fordulóban,
