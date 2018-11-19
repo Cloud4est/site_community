@@ -7,7 +7,7 @@ layout: default
 ref: quantity-or-quality
 following: Four
 order: 3
-style: spotlight style3 left
+style: left
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Quantity / quality
 featured: true

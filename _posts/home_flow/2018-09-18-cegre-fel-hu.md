@@ -7,7 +7,7 @@ layout: default
 ref: case-solvers
 following: Three
 order: 2
-style: spotlight style2 right
+style: right
 image: "/uploads/achievement-agreement-arms-1068523.jpg"
 description: A Case Solvers által kiírt Cégre Fel! nevű esetversenyen két csapattal
   is részt fogunk venni!

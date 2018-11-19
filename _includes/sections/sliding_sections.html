@@ -1,6 +1,6 @@
-<section id="{{ post.ref }}" class="{{ post.style }}">
+<section id="{{ post.ref }}" class="spotlight {% if post.style == "bottom" %}style1{% elsif post.style == "right" %}style2{% elsif post.style == "left" %}style3{% endif %} {{ post.style }}">
   <span class="image fit main"><img src="{{ post.image | prepend: site.baseurl }}" alt="" /></span>
-  <div class="content">{% if post.style == "spotlight style1 bottom" %}
+  <div class="content">{% if post.style == "bottom" %}
     <div class="container">
       <div class="row">{% endif %}
         <div class="col-4 col-12-medium">

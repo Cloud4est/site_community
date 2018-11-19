@@ -6,7 +6,7 @@ lang: hu
 ref: open4business
 following: case-solvers
 order: 1
-style: spotlight style1 bottom
+style: bottom
 image: "/uploads/410637.jpg"
 description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai
   konferencia!

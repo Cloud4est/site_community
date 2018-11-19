@@ -5,7 +5,7 @@ permalink: "/archi-symbol/"
 lang: hu
 layout: default
 ref: archi-symbol
-style: spotlight style2 right
+style: right
 image: "/uploads/archi-mountain.jpg"
 description: A Cloud4est új tagja, mégpedig nem ember
 featured: true

@@ -6,7 +6,7 @@ description: Ferling József könyve
 order: 1
 lang: hu
 ref: nagy-pr-konyv
-style: spotlight style1 bottom
+style: bottom
 sidebar: left
 image: "/uploads/adult-cellphone-chat-1083627.jpg"
 author: Nagy Ádám
