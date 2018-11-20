@@ -6,7 +6,7 @@
         <div class="col-4 col-12-medium">
           <header{% if post.major %} class="major"{% endif %}>
             <h2>{{ post.title }}</h2>
-            <p>{{ post.description }}</p>
+            <p>{{ post.description | markdownify }}</p>
           </header>
         </div>
         {% if post.style == "spotlight style1 bottom" %}

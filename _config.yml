@@ -41,15 +41,15 @@ defaults:
     layout: flowing
     type: topic
 email: youremailaddress@gmail.com
-baseurl: 
+baseurl:
 url: https://community.cloud4est.com
 pic: "/images/CD4ST_logo.svg"
-banner: "/images/banner.jpg"
+banner: "/images/Montage-YT_11-02.svg"
 twitter_url: https://twitter.com/CD4ST/
 facebook_url: https://facebook.com/CD4ST/
 github_url: https://github.com/Cloud4est/
 instagram_url: https://instagram.com/cloud4st/
-linkedin_url: 
+linkedin_url:
 markdown: kramdown
 include:
 - _pages
