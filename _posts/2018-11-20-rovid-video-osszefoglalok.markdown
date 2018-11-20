@@ -1,5 +1,5 @@
 ---
-title: Rövid videó összefoglalók
+title: Érkeznek a rövid videó összefoglalók
 date: 2018-11-20 21:41:00 +01:00
 description: 
 lang: hu
