@@ -2,7 +2,7 @@
 title: Open4business 2018
 date: 2018-09-19 00:00:00 +02:00
 lang: hu
-style: bottom
+style: left
 image: "/uploads/410637.jpg"
 description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai
   konferencia!
