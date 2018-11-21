@@ -1,12 +1,16 @@
 ---
 title: Önfejlesztés, avagy hogy csináljuk mi?
 date: 2018-11-21 18:19:00 +01:00
+categories:
+- tanulás
+tags:
+- önfejlesztés
 description: 
 lang: hu
 style: left
 image: "/uploads/adult-bed-bedroom-1467564.jpg"
 author: Nagy Ádám
-topic: 
+topic: önfejlesztés
 ---
 
 A Cloud4est egy önfejlesztő csoport. Ez azt jelenti, hogy a tagjai a kitűzött célok elérésenk érdekében saját magukat 
