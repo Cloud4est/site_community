@@ -2,7 +2,7 @@
 title: Adatgyűjtés kérdése
 date: 2018-09-17 00:00:00 +02:00
 lang: hu
-style: left
+style: right
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Minőség / mennyiség
 is-featured: true
