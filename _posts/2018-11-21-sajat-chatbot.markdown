@@ -3,7 +3,7 @@ title: Saját chatbot
 date: 2018-11-21 18:12:00 +01:00
 description: 
 lang: hu
-style: left
+style: right
 image: "/uploads/apple-device-beverage-chat-1243365.jpg"
 author: Nagy Ádám
 topic: történetek
