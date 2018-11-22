@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 
-<html>
+<html lang="{% if page.lang == "hu" %}hu{% elsif page.lang == "en" %}en{% endif %}">
 
 	{% include general/head.html %}
 
