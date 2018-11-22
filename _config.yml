@@ -1,5 +1,6 @@
 ---
-title: Community
+title: Cloud4est - Community
+description: Cloud4est - Community website
 timezone: Europe/Budapest
 collections:
   authors:
@@ -41,7 +42,18 @@ defaults:
     layout: flowing
     type: topic
 email: youremailaddress@gmail.com
-baseurl: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+logo: /assets/images/CD4ST_logo.svg
+social:
+  links:
+    - https://www.facebook.com/CD4ST
+    - https://twitter.com/CD4ST
+    - https://www.instagram.com/cloud4st/
+    - https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
+    - https://github.com/Cloud4est/
+baseurl:
 url: https://community.cloud4est.com
 pic: "/images/CD4ST_logo.svg"
 banner: "/images/Montage-YT_11-02.svg"
@@ -49,7 +61,7 @@ twitter_url: https://twitter.com/CD4ST/
 facebook_url: https://facebook.com/CD4ST/
 github_url: https://github.com/Cloud4est/
 instagram_url: https://instagram.com/cloud4st/
-linkedin_url: 
+youtube_url: https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
 markdown: kramdown
 include:
 - _pages
