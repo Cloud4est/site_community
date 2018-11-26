@@ -6,7 +6,7 @@
         <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}Főoldal{% else %}Home{% endif %}</a></li>
         <!-- Topics page -->
           <li>
-            {% assign topics_page = site.pages | where:"ref","topics" | where:"lang",page.lang %}
+            {% assign topics_page = site.pages | where:"icons","topics" | where:"lang",page.lang %}
             {% for page in topics_page %}
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | capitalize }}</a>
             {% endfor %}
@@ -20,7 +20,7 @@
           </li>
             <!-- Authors page -->
           <li>
-            {% assign authors_page = site.pages | where:"ref","authors" | where:"lang",page.lang %}
+            {% assign authors_page = site.pages | where:"icons","authors" | where:"lang",page.lang %}
             {% for page in authors_page %}
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             {% endfor %}
