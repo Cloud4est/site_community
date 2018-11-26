@@ -9,6 +9,9 @@ collections:
   langs:
     title: Langs
     output: false
+  pages:
+    title: Pages
+    output: true
   posts:
     title: Posts
     output: true
@@ -22,9 +25,6 @@ collections:
   uploads:
     title: Uploads
     output: false
-  pages:
-    title: Pages
-    output: true
 defaults:
 - scope:
     path: ''
@@ -44,7 +44,7 @@ defaults:
     layout: flowing
     type: topic
 - scope:
-    path: '_pages'
+    path: _pages
   values:
     layout: default
 description: Cloud4est - Community website
@@ -60,7 +60,7 @@ social:
   - https://www.instagram.com/cloud4st/
   - https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
   - https://github.com/Cloud4est/
-baseurl:
+baseurl: 
 url: https://community.cloud4est.com
 pic: "/images/CD4ST_logo.svg"
 banner: "/images/Montage-YT_11-02.svg"
