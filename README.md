@@ -23,16 +23,16 @@ you can use for pretty much whatever.
 > (* = Not included)  
 > Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)  
 > AJ
-aj@lkn.io | @ajlkn  
-Credits:  
-  - Demo Images:
-  	 - Unsplash (unsplash.com)  
-  - Icons:
-  	 - Font Awesome (fontawesome.io)  
-  - Other:  
-  	 - jQuery (jquery.com)  
-  	 - Scrollex (github.com/ajlkn/jquery.scrollex)  
-  	 - Responsive Tools (github.com/ajlkn/responsive-tools)
+> aj@lkn.io | @ajlkn  
+> Credits:  
+> - Demo Images:
+>	 - Unsplash (unsplash.com)  
+> - Icons:
+>	 - Font Awesome (fontawesome.io)  
+> - Other:  
+>	 - jQuery (jquery.com)  
+>	 - Scrollex (github.com/ajlkn/jquery.scrollex)  
+>	 - Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
 ## __Modifying the site:__
