@@ -10,7 +10,7 @@ collections:
     title: Langs
     output: false
   pages:
-    title: Pages
+    title: Navbar
     output: true
   posts:
     title: Posts
