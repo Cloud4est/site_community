@@ -5,6 +5,7 @@ author: Schelb Arnold
 lang: hu
 style: left
 topic: önfejlesztés
+image: "/uploads/learning_together.jpeg"
 ---
 
 Az elmúlt időben sokszor belefutottam abba a hozzáállásba, amit először nem teljesen tudtam megérteni. Amikor elkezdtem megosztani a Cloud4est koncepcióját, és többeket invitáltam, mindenki különböző módon reagált: általában lelkesen kezdték, viszont voltak akik az egész ötletet szkeptikusan fogadták, ebből élvezetes eszmecserék, viták alakultak ki. (Ritkán van, hogy az iskolában normális vitára adódik alkalom, viszont szerintem olyankor jó kihasználni :D) De most a lelkesekről. A fogadtatásmódtól függetlenül, nem mindenki csatlakozott / vesz részt aktívan a csapat tevékenységeiben. Sokaknál ennek az oka a "mit tudnék hozzátenni?" kérdés (és inkább a maguktól várt válasz hiánya) volt.
