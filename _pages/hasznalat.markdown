@@ -6,4 +6,3 @@ description: Hogyan használd a weboldalt?
 location: navbar
 ---
 
-Itt találod meg
