@@ -50,7 +50,6 @@ You can add a new author by creating a (.md) file in the `_authors` directory. T
 - `hu`
 - `en`
 - [ ] `image`: picture to show
-- [x] `description`: appears under the title
 
 ### _Topics_
 
