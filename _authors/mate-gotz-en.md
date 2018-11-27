@@ -2,7 +2,7 @@
 title: Máté Götz
 date: 2018-09-02 00:00:00 +02:00
 lang: en
-image:
+image: 
 ---
 
 As a co-founder of Cloud4est, I find it important to develop myself.
