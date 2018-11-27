@@ -61,6 +61,7 @@ social:
   - https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
   - https://github.com/Cloud4est/
 baseurl: 
+permalink: pretty
 url: https://community.cloud4est.com
 pic: "/images/CD4ST_logo.svg"
 banner: "/images/Montage-YT_11-02.svg"
