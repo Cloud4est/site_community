@@ -5,6 +5,8 @@ author: Arnold Schelb
 lang: en
 image: "/uploads/learning_together.jpeg"
 topic: self-study
+style: left
+is-featured: true
 ---
 
 I couldn't really understand the attitude that I met a few times, not long ago. It occurred when I started sharing the concept of Cloud4est and invited more people to join in, they reacted differently: generally they were keen on the idea, but there were some who responded skeptically. Those conversations usually evolved into some sort of debates, which I enjoyed (because that's sadly a rare opportunity in school, that's why I got to make use of it :D) But let's stay with the enthusiastic ones. Despite the reception, not everybody have joined or taken part in our activities actively. Many told me it was the matter of the question (or rather the lack of their answer): "In what way could I contribute to it?" 
