@@ -1,5 +1,5 @@
 ---
-title: Schelb Arnold
+title: Arnold Schelb
 date: 2018-09-01 12:11:00 +02:00
 image: "/uploads/PortraitSquare.jpg"
 lang: en
