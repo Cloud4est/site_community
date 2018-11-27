@@ -10,7 +10,11 @@
         {% else %}
         <h2>{{ page.title | capitalize }}</h2>
         {% endif %}
-        <p>{{ page.description }}</p>
+        {% if page.type == "author" %}
+        <p>{{ page.content }}</p>
+        {% else %}
+        <p>{{ page.description }}
+        {% endif %}
       </header>
       {% if page.icons != null %}
 
@@ -51,7 +55,11 @@
 
           {% elsif page.sidebar == null %}
 
+          {% if page.type != "author" %}
+
           {% include pages/content.html %}
+
+          {% endif %}
 
           {% endif %}
     </div>

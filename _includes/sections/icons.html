@@ -14,7 +14,7 @@
           <section class="col-4 col-6-medium col-12-xsmall">
             <span class="image profpic"><img src="{{ page.image | prepend: site.baseurl }}" alt=""/></span>
             <h3>{{ page.title }}</h3>
-            <p>{{ page.description }}</p>
+            <p>{{ page.content | truncatewords: 13 | markdownify | strip_html }}</p>
           </section></a>
           {% endfor %}
 
