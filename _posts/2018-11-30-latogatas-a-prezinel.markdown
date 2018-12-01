@@ -20,4 +20,4 @@ Mivel mi egy kis csoport voltunk Németh Edina úgy döntött, hogy nem a szoká
 
 Summázva a tegnapi napot, nagyon sok érdekes technikát tanultunk meg, sokat tudtunk implementálni a mi saját vállakozásunkba és még jól is éreztük magunkat.
 
-Köszönjük Prezi és mindenki a segített ebben.
+Köszönjük a Prezinek és mindenkinek aki segített ebben.
