@@ -3,7 +3,7 @@ title: Látogatás a Prezinél
 date: 2018-11-30 17:26:00 +01:00
 description: 
 author: Nagy Ádám
-image: "/uploads/prezi_horizontal_black.png"
+image: "/uploads/Prezi-Black-Logo-1920x1080px.png"
 is-featured: true
 style: right
 lang: hu
