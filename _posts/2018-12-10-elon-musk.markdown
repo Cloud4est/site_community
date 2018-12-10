@@ -1,7 +1,9 @@
 ---
 title: Elon Musk
 date: 2018-12-10 12:09:00 +01:00
-description: Elon Musk
+description: Elon Musk a dél-afrikai származású multimilliárdos, akinek rendkívüli
+  humora van és a Marson szeretne meghalni. Csak nem egy becsapódásban. Lehetőleg
+  egy csokoládé fagylaltal a kezében.
 author: Ádám Nagy
 image: "/uploads/gettyimages-489769706.jpg"
 is-featured: true
