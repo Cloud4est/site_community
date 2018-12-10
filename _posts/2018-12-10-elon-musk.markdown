@@ -8,7 +8,7 @@ author: Ádám Nagy
 image: "/uploads/gettyimages-489769706.jpg"
 is-featured: true
 lang: hu
-style: left
+style: right
 ---
 
 **Ki Elon Musk?**
