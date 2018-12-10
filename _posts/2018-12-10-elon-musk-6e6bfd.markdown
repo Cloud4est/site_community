@@ -5,7 +5,7 @@ description: Elon Musk the South African born billionaire who wants to die on Ma
   but not on an impact with chocolate ice-cream in his hand.
 image: "/uploads/gettyimages-489769706.jpg"
 lang: en
-author: Ádám Nagy
+author: Nagy Ádám
 is-featured: true
 style: right
 ---
