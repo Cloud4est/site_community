@@ -11,8 +11,8 @@ lang: hu
 style: left
 ---
 
-**Ki Elon Musk?**
-Olvashattad, hogy kilőtte az autóját az űrbe. Fizethettél az általa kreált PayPal-al. Ha elektromos autót akarsz, biztosan keresztezni fogja az utad egy Tesla és ha csak át akarsz ugrani egy kontinensen a Hyperloopot választod. De a föld alá menekülsz a forgalmi dugók elől is. Mindeközben az Ő ingyen 4G-jén lóghatsz. A gyerekeid pedig valószínűleg a SpaceX rakétáin jutnak majd a Marsra.
+**Ki Elon Musk?** 
+<p>Olvashattad, hogy kilőtte az autóját az űrbe. Fizethettél az általa kreált PayPal-al. Ha elektromos autót akarsz, biztosan keresztezni fogja az utad egy Tesla és ha csak át akarsz ugrani egy kontinensen a Hyperloopot választod. De a föld alá menekülsz a forgalmi dugók elől is. Mindeközben az Ő ingyen 4G-jén lóghatsz. A gyerekeid pedig valószínűleg a SpaceX rakétáin jutnak majd a Marsra.</p>
 
 Musk 1971 június 28.-án látta meg a napvilágot Pretoriában. Gyerekkora nehezen telt, édesapja mérnök volt, Maye Musk, az édesanyja pedig modellként dolgozott. (Mind a mai napig.)Két testvére van, Kimbal és Tosca Musk.
 
