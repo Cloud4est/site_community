@@ -1,7 +1,7 @@
 ---
 title: Elon Musk
 date: 2018-12-10 12:09:00 +01:00
-description: 
+description: Elon Musk
 author: Ádám Nagy
 image: "/uploads/gettyimages-489769706.jpg"
 is-featured: true
