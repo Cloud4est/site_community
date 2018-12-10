@@ -6,3 +6,4 @@ image: "/uploads/networking-event.jpg"
 description: Felhívások hozzánk kapcsolódó eseményekről, leírások olyan rendezvényekről
   amiken részt vettünk, szerveztünk, vagy csak érdekesek számunkra.
 ---
+
