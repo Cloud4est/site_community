@@ -10,13 +10,14 @@ is-featured: true
 style: right
 ---
 
-Who is Elon Musk?
-
+**Who is Elon Musk?
+**
 You could read that he shoot his Tesla Roadster to space. You could pay via PayPal or you could travel by a Tesla. In the future, you can use Hyperloop, his free 4G internet connection and you can go to Mars by his rockets.
 
-He was born in Pretoria, South Africa, in 1971. His father was an engineer and his mother works as a model. 
+He was born in Pretoria, South Africa, in 1971. His father was an engineer and his mother works as a model. He has a brother Kimbal and a sister Tosca Musk. He had 3 partners and 6 sons. Sadly, Alexander Nevada Musk died in 2002.
+ 
 
-He was a book-worm. He read through Encyclopedia Britannica (32 640 pages). He was bullied by his classmates. They broke his nose. Elon went back to books and learn a lot. 
+He was a book-worm. He read through Encyclopedia Britannica (32 640 pages). He was bullied by his classmates. They broke his nose. Elon went back to books and learn a lot. Elon and Kimbal wanted to open a local business when they were young but they didn't get a sign from any adult to this project.
 
 At the age of 12, he wrote a computer game, named Blastar. (You can try it out [here](https://blastar-1984.appspot.com/)) A company bought the game for 500 Dollars. 
 
