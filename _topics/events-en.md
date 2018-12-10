@@ -1,5 +1,5 @@
 ---
-title: events
+title: Events
 date: 2018-09-02 00:00:00 +02:00
 lang: en
 image: "/uploads/networking-event.jpg"

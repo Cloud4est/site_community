@@ -1,5 +1,5 @@
 ---
-title: események
+title: Események
 date: 2018-09-02 00:00:00 +02:00
 lang: hu
 image: "/uploads/networking-event.jpg"
