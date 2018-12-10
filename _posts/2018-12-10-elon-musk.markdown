@@ -1,6 +1,11 @@
 ---
 title: Elon Musk
 date: 2018-12-10 12:09:00 +01:00
+description: 
+author: Ádám Nagy
+image: "/uploads/gettyimages-489769706.jpg"
+is-featured: true
+Field name: 
 ---
 
 Ki Elon Musk? Olvashattad, hogy kilőtte az autóját az űrbe. Fizethettél az általa kreált PayPal-al. 
