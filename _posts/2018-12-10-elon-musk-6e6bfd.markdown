@@ -23,7 +23,7 @@ At the age of 12, he wrote a computer game, named Blastar. (You can try it out [
 
 He went to Canada in order to study at universities and he ended up in the States.
 
-He made Zip2, X.com, PayPal. He invested into Tesla Motors and created SpaceX.
+He made Zip2, X.com, PayPal. He invested into Tesla Motors because he's ideal future is with electric vehicles and created SpaceX so we could go to Mars in the future.
 
 After all, he is my idol. He set his goals and now, he fights for them. We need to be proactive and fight for our dreams too. That's the key point of success.
 
