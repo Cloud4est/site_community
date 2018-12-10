@@ -6,7 +6,7 @@ author: Ádám Nagy
 image: "/uploads/gettyimages-489769706.jpg"
 is-featured: true
 lang: hu
-Field name: 
+style: left
 ---
 
 Ki Elon Musk? Olvashattad, hogy kilőtte az autóját az űrbe. Fizethettél az általa kreált PayPal-al. 
