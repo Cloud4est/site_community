@@ -11,9 +11,9 @@ is-featured: true
 ---
 
 Mivel eddig semmilyen dokumentációja nem volt a napi tevékenységünknek, leszámítva néhány belsős képet, az az elhatározás született,
-hogy ezentúl minden találkozó tán egy egy-két percens videóban összefoglaljuk, hogy mi is történt aznap. 
+hogy ezentúl minden találkozó után egy egy-két perces videóban összefoglaljuk, hogy mi is történt aznap. 
 
-Ez azért fontos, hogy esetleges támogatók de legfőképpen érdeklődők is követni tudják a tevékenységünket. Másodsorban nekünk is 
+Ez azért fontos, hogy esetleges támogatók, de legfőképpen érdeklődők is követni tudják a tevékenységünket. Másodsorban nekünk is 
 remekül követhető archívum születik arról, hogy mi történik és ezt adott esetben évek múltán is fel tudjuk eleveníteni.
 
 Hátrányai is vannak a dolognak, mint általában mindennek a világon. Egyenlőre nem igazán fekszik nekünk a vlog készítés, de 
