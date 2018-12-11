@@ -33,7 +33,7 @@ Mivel elég sokan, elég sok  ideje csinálják már ezt a típúsú tanulást, 
 * Coursera
 
 Mint láthatjátok elég nagy a választék. Érdemes mindegyiket kipróbálni, eléggé eltérőek, viszont mindenhol minőségi kurzusok
-találhatóak. Van a műfajnak fizetős változata is, a Masterclass, de első körben mindenképp az ingyenes útra buzdítanék mindenki.
+találhatóak. Van a műfajnak fizetős változata is, a Masterclass, de első körben mindenképp az ingyenes útra buzdítanék mindenkit.
 Ez egy nehéz műfaj, nem lesznek tanárok akik toljanak előre. Ha nem tanulod meg, vagy nem haladsz elég gyorsan él lemaradsz,
 senki nem fog rádszólni. Azonban ami előnyként könyvelhető el, az az, hogy akkor csinálod, amikor szeretnéd. Ha éjfélkor jó neked,
 az sem baj!
