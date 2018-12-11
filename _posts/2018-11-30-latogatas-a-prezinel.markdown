@@ -16,7 +16,7 @@ Korán volt 5:40. Indult a vonat Pécsről a fővárosba. Elindultunk. 11-re bes
 
 Bekísértek minket egy ötletelésre kialakított termebe amit Google Naptárban előre lefoglaltak nekünk. Ha azt vesszük teljesen logikus, hogy így követik, hogy melyik terem mikor foglalt. 
 
-Mivel mi egy kis csoport voltunk Németh Edina úgy döntött, hogy nem a szokásos menetrendben fog folyni a találkozás, hanem egy kerekasztal beszélgetés formájában. Ez egy rendkívül jó ötlet volt a részértől.
+Mivel mi egy kis csoport voltunk Németh Edina úgy döntött, hogy nem a szokásos menetrendben fog folyni a találkozás, hanem egy kerekasztal beszélgetés formájában. Ez egy rendkívül jó ötlet volt a részéről.
 
 Summázva a tegnapi napot, nagyon sok érdekes technikát tanultunk meg, sokat tudtunk implementálni a mi saját vállakozásunkba és még jól is éreztük magunkat.
 
