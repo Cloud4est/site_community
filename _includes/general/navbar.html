@@ -1,6 +1,6 @@
 <!-- Navbar start -->
   <header id="header">
-    <h1 id="logo"><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}{{ site.data.strings.site.title.hu }}{% else %}{{ site.data.strings.site.title.en }}{% endif %}</a></h1>
+    <h1 id="logo"><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{{ page.title }}</a></h1>
     <nav id="nav">
       <ul>
         <li><a href="{% if page.lang == "en" %}{{ site.baseurl | prepend: site.url }}/en/{% else %}{{ site.baseurl | prepend: site.url }}/{% endif %}">{% if page.lang == "hu" %}Főoldal{% else %}Home{% endif %}</a></li>

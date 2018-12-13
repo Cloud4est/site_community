@@ -2,8 +2,8 @@
   <section id="banner">
     <div class="content">
       <header>
-        <h2>{% if page.lang == "hu" %}{{ site.data.strings.site.short_description.hu }}{% else %}{{ site.data.strings.site.short_description.en }}{% endif %}</h2>
-        <p>{% if page.lang == "hu" %}{{ site.data.strings.site.description.hu }}{% else %}{{ site.data.strings.site.description.en }}{% endif %}</p>
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.description }}</p>
       </header>
       <span class="image"><img src="{{ site.pic | prepend: site.baseurl }}" alt="" /></span>
     </div>
