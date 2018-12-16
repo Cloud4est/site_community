@@ -6,6 +6,7 @@ author: Ádám Nagy
 image: "/uploads/ai-artificial-intelligence-astronaut-39644.jpg"
 is-featured: true
 style: left
+lang: en
 ---
 
 Space Exploration is expensive. That's true but this is our future. If we don't put money into our futurity, humans will die out soon. 
