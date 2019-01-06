@@ -5,4 +5,4 @@ image: "/uploads/PortraitSquare.jpg"
 lang: en
 ---
 
-**Open** source / **Free** software enthusiast. Nowadays my hobbies include: exploring interesting new projects, 3D printing and experimenting with model creation, website development, GNU/Linux + gadget "hacking" and so much more... Additionally, I'm interested in humans, I think I'm open to them. I would also like to mention animals and plants as additional **living** organisms. _Founder @ Cloud4est_.
+**Open** source / **Free** software enthusiast. Nowadays my hobbies include: exploring interesting new projects, 3D printing and experimenting with model creation, website development, GNU/Linux + gadget "hacking" and so much more... Additionally, I'm interested in humans, I think I'm open to them. I would also like to mention animals and plants as additional **living** organisms. _Founder of Cloud4est_.
