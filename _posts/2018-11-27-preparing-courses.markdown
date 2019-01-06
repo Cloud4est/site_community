@@ -15,7 +15,7 @@ So, that was one reason why we thought it would be useful if we started making c
 
 ### ehm... What kind of courses?
 
-> And anyway, whaaat?
+> And anyways, what is it all about?
 
 Firstly we are starting with only a few courses, in the coming days or next week. All of them are going to be introductory / beginner courses, in order to let anyone join. Alright, what are the topics?
 
