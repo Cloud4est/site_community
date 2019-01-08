@@ -3,9 +3,10 @@ title: Weboldal vs. Alkalmazás
 date: 2019-01-08 18:46:00 +01:00
 author: Schelb Arnold
 topic: Történetek
-style: left
+style: right
 lang: hu
 image: "/uploads/headway-537308-unsplash-1-1024x683.jpg"
+is-featured: true
 ---
 
 Miért **indítsunk egy weboldallal**, alkalmazás helyett?
