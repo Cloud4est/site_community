@@ -1,6 +1,6 @@
 ---
 title: Cloud4est - Közösség
-description: Amit láttunk, ahol jártunk és amivel foglalkozunk.
+description: 'Mi és a világ - Mit láttunk? Mi történt velünk?  '
 lang: hu
 ref: index
 layout: flowing
