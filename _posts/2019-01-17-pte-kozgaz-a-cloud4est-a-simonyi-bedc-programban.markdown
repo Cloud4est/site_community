@@ -1,9 +1,13 @@
 ---
 title: PTE Közgáz - a Cloud4est a Simonyi BEDC Programban
 date: 2019-01-17 08:23:00 +01:00
+Author: Róbert Kutsera
+Topic: Események
+style: left
+is-featured: true
+Image: "/uploads/NetMIB.png"
 ---
 
-![NetMIB.png](/uploads/NetMIB.png)
 Februárban indul a PTE Közgázon az a vállalkozásfejlesztési program, amelynek keretében a "Jabatkát" szeretnénk továbbfejleszteni.Egyedüli középiskolás csapatként, nappali tagozatos egyetemistákkal fogunk együtt dolgozni itt. 
   
 A Simonyi BEDC program keretében a csapat tagjainak hétről hétre alkalma lesz arra, hogy alternatív értékelési rendszerünk továbbfejlesztésén dolgozzunk, miközben sok mindent megtudhatunk a projektmenedzsmentről, marketingről, termékfejlesztésről. 
