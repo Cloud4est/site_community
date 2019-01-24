@@ -4,7 +4,7 @@ date: 2019-01-24 08:16:00 +01:00
 author:
   Key: 'Kutsera Róbert '
 topic: Események
-style: left
+style: right
 lang: hu
 image: "/uploads/Brain%20awareness%20week.jpg"
 is-featured: true
