@@ -6,7 +6,7 @@ topic: Események
 style: right
 lang: hu
 image: "/uploads/GamingExpo_HeaderImage_CalHolman.jpg"
-is-featured: 
+is-featured: true
 ---
 
 A napokban volt egy megbeszélésünk a Pécs-Baranyai Kereskedelmi és Iparkamara két munkatársával Schmidt Enikővel és Pazaurek Szabinával. 
