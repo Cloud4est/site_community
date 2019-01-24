@@ -6,6 +6,7 @@ topic: Önfejlesztés
 style: left
 lang: hu
 image: "/uploads/IMG_20190122_184750.jpg"
+is-featured: true
 ---
 
 Amióta a honlapokkal való foglalkozás elindult, Arni (Schelb Arbold)  Jekyll mellett kardoskodik, és erre épülnek a jelenlegi oldalaink is. De mennyire egyszerű az egyszerű? 
