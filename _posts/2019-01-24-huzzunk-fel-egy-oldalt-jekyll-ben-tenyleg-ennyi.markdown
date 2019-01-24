@@ -9,7 +9,7 @@ image: "/uploads/IMG_20190122_184750.jpg"
 is-featured: true
 ---
 
-Amióta a honlapokkal való foglalkozás elindult, Arni (Schelb Arbold)  Jekyll mellett kardoskodik, és erre épülnek a jelenlegi oldalaink is. De mennyire egyszerű az egyszerű? 
+Amióta a honlapokkal való foglalkozás elindult, Arni (Schelb Arnold)  Jekyll mellett kardoskodik, és erre épülnek a jelenlegi oldalaink is. De mennyire egyszerű az egyszerű? 
 
 Az elmúlt hónapokban többször futottunk már köröket a Jekyll körül. Úgy tűnt, nagyjából két hónapja, hogy már csak egy kicsi hiányzik ahhoz, hogy meg tudjuk hirdetni a Jekyll kurzust, aztán mindig közbejött valami. Ádámmal utoljára 3 órán át küzdöttünk vele, hogy az általunk választott téma változásait a saját gépünk böngészőjében tudjuk nyomon követni, anélkül, hogy Github-ra kellene rendszeresen visszatölteni a változtatásokat, és ezt követően látni csak a változást. Mivel az egyes témák nem feltétlenül a Ruby legfrissebb verzióját használták, és akadtak más gondjaink is, rendesen kimerültünk mindketten.   
 
