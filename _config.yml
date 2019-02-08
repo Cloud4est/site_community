@@ -15,9 +15,6 @@ collections:
   posts:
     title: Posts
     output: true
-  sajtosrol:
-    title: SAJTOSROLÓ
-    output: true
   styles:
     title: Styles
     output: false
