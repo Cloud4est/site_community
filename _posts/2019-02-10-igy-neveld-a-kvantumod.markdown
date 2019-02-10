@@ -17,7 +17,7 @@ Szerintem jól megtalálták az egyensúlyt a tudományos és közérthető nyel
 
 Persze a kvantummechanika alapjairól kezdve, volt szó a most tanított atommodellek elmaradottságáról, annak ellenére hogy jól szemléltetnek pár tulajdonságot, az elektronpályákat többek között kevésbé hitelesen ábrázolják. A többit inkább csak felsorolásszerűen, nem szándékom senkit sem elriasztani a témától. Szóval feljött még:
 
-- [Fourier transzformáció](https://www.youtube.com/watch?v=spUNpyF58BY) kapcsolata a határozatlansági állandóval
+- **[Fourier transzformáció](https://www.youtube.com/watch?v=spUNpyF58BY)** kapcsolata a határozatlansági állandóval
 
 - A **kvantumállapotú részecskéken végrehajtott mérés** által okozott "problémák" és okai
 
