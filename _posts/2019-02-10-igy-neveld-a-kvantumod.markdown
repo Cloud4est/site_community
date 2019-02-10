@@ -23,7 +23,7 @@ Persze a kvantummechanika alapjairól kezdve, volt szó a most tanított atommod
 
 - **A ψ függvény**, ami egy elektron vagy foton tartózkodási helyének valószínűségét jellemzi
 
-- **2 összefonódott foton létrehozásának módja**, ami egy elektron és egy pozitron ütköztetésével érhető el (andihidáció)
+- **2 összefonódott foton létrehozásának módja**, ami egy elektron és egy pozitron ütköztetésével érhető el (annihiláció)
 
 - A **Grover (kvantum)algoritmus**, ami a hagyományos számítógépekhez képest töredéknyi idő és erőforrás felhasználásával teszi lehetővé egy egyedi érték megtalálását egy adatbázisban
 
