@@ -1,7 +1,7 @@
 ---
 title: How to train your quantum
 date: 2019-02-10 14:37:00 +01:00
-lang: hu
+lang: en
 author: Arnold Schelb
 style: left
 topic: Events
