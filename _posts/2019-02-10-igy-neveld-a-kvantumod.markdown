@@ -9,7 +9,7 @@ is-featured: true
 style: left
 ---
 
-Pénteken, Február 7-én Ádámmal egy érdekes, és meglehetősen ritka előadáson vettünk részt. Még Januárban bukkatunk rá a [Turbine](https://turbine.ai) által rendezett _Így neveld a kvantumod_ eseményre, ami nagy meglepetésünkre ingyenes volt. Már csak a nem túl könnyű oda-vissza utat kellett megoldani, ugyanis Budapesten, a Millenáris Startup Campus irtó modern, nagyon egyedien berendezett épületében került sor az alkalomra.
+Csütörtökön, Február 7-én Ádámmal egy érdekes, és meglehetősen ritka előadáson vettünk részt. Még Januárban bukkatunk rá a [Turbine](https://turbine.ai) által rendezett _Így neveld a kvantumod_ eseményre, ami nagy meglepetésünkre ingyenes volt. Már csak a nem túl könnyű oda-vissza utat kellett megoldani, ugyanis Budapesten, a Millenáris Startup Campus irtó modern, nagyon egyedien berendezett épületében került sor az alkalomra.
 
 Miután kicsit lehidaltunk a helyen, megérkezett mindenki, még a lépcsők is tele voltak. Az előadás része volt a Turbine Academy programnak, amiben a magyar startup nyílt ismeretterjesztő alkalmakat szervez, tehát bárki szabadon eljöhet és aktuális tudományos témákról szerezhet korszerű ismereteket. A jelenlegit Szalay Kristóf, a Turbine CTO-ja tartotta.
 
