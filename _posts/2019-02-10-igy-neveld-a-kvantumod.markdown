@@ -6,6 +6,7 @@ author: Schelb Arnold
 lang: hu
 topic: Események
 is-featured: true
+style: left
 ---
 
 Pénteken, Február 7-én Ádámmal egy érdekes, és meglehetősen ritka előadáson vettünk részt. Még Januárban bukkatunk rá a [Turbine](https://turbine.ai) által rendezett _Így neveld a kvantumod_ eseményre, ami nagy meglepetésünkre ingyenes volt. Már csak a nem túl könnyű oda-vissza utat kellett megoldani, ugyanis Budapesten, a Millenáris Startup Campus irtó modern, nagyon egyedien berendezett épületében került sor az alkalomra.
