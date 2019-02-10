@@ -1,6 +1,11 @@
 ---
 title: How to train your quantum
 date: 2019-02-10 14:37:00 +01:00
+lang: hu
+author: Arnold Schelb
+style: left
+topic: Events
+is-featured: true
 ---
 
 On Friday, February 7, we, together with Ádám, took part in an interesting and quite rare presentation. It was in January when we discovered this opportunity, as one of the Turbine Academy programs. These are events organized by [Turbine](https://turbine.ai), in which they share information about cutting edge topics in an understandable, open (and free) manner.
