@@ -1,5 +1,5 @@
 ---
-title: Meetingek avagy időnyelők.
+title: Meetingek avagy időnyelők
 date: 2019-02-12 23:17:00 +01:00
 tags:
 - meetings
