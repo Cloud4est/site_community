@@ -5,7 +5,7 @@ lang: hu
 style: right
 image: "/uploads/archi-mountain.jpg"
 description: A Cloud4est első, nem emberi tagja
-is-featured: true
+is-featured: false
 author: Nagy Ádám
 topic: történetek
 ---
