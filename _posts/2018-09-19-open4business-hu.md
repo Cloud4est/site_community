@@ -6,7 +6,7 @@ style: left
 image: "/uploads/410637.jpg"
 description: A baranyai iparkamara ICT szekciójának szervezésében megvalósult szakmai
   konferencia!
-is-featured: true
+is-featured: false
 author: Kutsera Róbert
 topic: események
 ---
