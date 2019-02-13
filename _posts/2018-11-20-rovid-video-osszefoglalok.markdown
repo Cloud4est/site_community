@@ -7,7 +7,7 @@ style: left
 image: "/uploads/adult-analogue-aperture-403495.jpg"
 author: Nagy Ádám
 topic: történetek
-is-featured: true
+is-featured: false
 ---
 
 Mivel eddig semmilyen dokumentációja nem volt a napi tevékenységünknek, leszámítva néhány belsős képet, az az elhatározás született,
