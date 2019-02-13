@@ -5,7 +5,7 @@ lang: hu
 style: right
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Minőség / mennyiség
-is-featured: true
+is-featured: false
 author: Götz Máté
 topic: történetek
 ---
