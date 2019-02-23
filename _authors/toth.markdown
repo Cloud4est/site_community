@@ -1,8 +1,8 @@
 ---
-title: Tóth
+title: Tóth Ágota
 date: 2019-02-05 18:16:00 +01:00
 lang: hu
 Image: 
 ---
 
-Ki vagy?? 
+Fogalomként emlegetnek. Művész vagyok és néhanapján hobbibuggyant. Szeretem a világot vidámabbá tenni. 
