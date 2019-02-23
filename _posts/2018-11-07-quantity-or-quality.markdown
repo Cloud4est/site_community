@@ -5,7 +5,7 @@ lang: en
 style: left
 image: "/uploads/adult-audience-celebration-260907.jpg"
 description: Quantity / quality
-is-featured: true
+is-featured: false
 author: Máté Götz
 topic: stories
 ---
