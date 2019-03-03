@@ -5,4 +5,4 @@ lang: hu
 Image: "/uploads/received_2183309275222332-e233f3.jpeg"
 ---
 
-Fogalomként emlegetnek. Művész vagyok és néhanapján hobbibuggyant. Szeretem a világot vidámabbá tenni. 
+Fogalomként emlegetnek. Művész vagyok és néhanapján hobbibuggyant. Szeretem a világot vidámabbá tenni. A képregény világában utazok, mindemellett az élem a csodálatos életemet. 
