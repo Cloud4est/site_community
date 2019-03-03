@@ -1,7 +1,8 @@
 ---
 title: Kerklecz Lilla
 date: 2019-03-03 18:54:00 +01:00
-iamge: 
+lang: hu
+image: "/uploads/53386725_255801088674537_3285092318591320064_n.jpg"
 ---
 
 A Cloud4est külső konzulense, pszichológus hallgató, átlagos huszonéves. Szeretek magamra úgy gondolni, mint aki hidat képez a csapat diáktagjai és a mentorgárda között, hisz bár tanulok még, már élem a „felnőtt” életet is. A belépésre nosztalgikus érzések indítottak, a maradásra már a szakmai kihívás bírt, hisz leendő szociál-szervezet pszichológusként hihetetlen izgalmas egy újszerű projektet a formálódásának kiindulópontjától végig követni, és tevékenyen részt venni az alakításában. 
