@@ -6,6 +6,7 @@ author: Tóth Ágota
 is-featured: true
 style: left
 topic: Események
+lang: hu
 ---
 
 Hát srácok, hogy őszinte legyek, rettegtem a péntektől. A Hackathont, mint eseményt egy igazán rejtélyes atmoszféra lengte körül, senki sem tudta, pontosan mi fog történni, kivel lesz, mi lesz majd a dolga. Egyet viszont tudtunk. Hogy Ádámmal ketten együtt vágunk bele. Így érthető, hogy reggel a ismeretlentől való félelem egy enyhe szorítássá szelídült a gyomromban és inkább egyfajta jóleső izgalom járt át. Amint kiléptünk az ajtón, vettünk egy nagy levegőt és elindultunk az egyetem felé, ami bár ismerős helyszín volt mindkettőnk számára, most valahogy mégis másnak, fenségesnek tűnt. Vágjunk bele.
