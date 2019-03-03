@@ -10,6 +10,7 @@ lang: hu
 image: "/uploads/american-cellphone-coffee-1391371.jpg"
 is-featured: true
 style: right
+topic: Események
 ---
 
 Aki látott már amerikai filmet, ami egy irodaházban játszódik, biztosan találkozott már a "meeting" kifejezéssel. Maga a szó találkozót jelent, de mégis az angol szót használjuk, mivel ad az alkalomnak egy üzleti jelleget.
