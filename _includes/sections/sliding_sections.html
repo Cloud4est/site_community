@@ -6,6 +6,7 @@
         <div class="col-4 col-12-medium">
           <header{% if post.major %} class="major"{% endif %}>
             <h2>{{ post.title }}</h2>
+            <p>- {{ post.author }}</p>
             <p>{{ post.description | markdownify }}</p>
           </header>
         </div>
