@@ -32,4 +32,4 @@ Röviden, mindenkinek ajánlom ezt a kis programot, ha jól beszélsz angolul, a
 
 Amint valami érdekes fejlemény lesz az olaszommal kapcsolatban jelentkezem.
 
-Bonasera. 
+Buonasera. 
