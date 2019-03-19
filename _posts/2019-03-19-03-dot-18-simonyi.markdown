@@ -1,6 +1,7 @@
 ---
 title: 03.18. Simonyi
 date: 2019-03-19 22:09:00 +01:00
+style: right
 topic: Események
 image: "/uploads/55564162_1041176886071735_5685596411303821312_n%20(1)-916a9f.png"
 author: Horváth Éva
