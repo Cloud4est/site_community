@@ -31,6 +31,8 @@ defaults:
     type: posts
   values:
     layout: default
+    image: Kép
+    author: Szerző
     lang: hu
     style: bottom
     is-featured: true
