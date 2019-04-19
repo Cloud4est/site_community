@@ -1,5 +1,5 @@
 ---
-title: Digital week at Királyegyháza
+title: Digital week in Királyegyháza
 date: 2019-04-19 15:25:00 +02:00
 image: "/uploads/IMG_20190410_143536.jpg"
 author: Arnold Schelb
@@ -22,7 +22,5 @@ Honestly I didn't expect any invitation like that before I heard about it, but I
 - Márk the **website development** workshop with [Arni](https://community.cloud4est.com/authors/schelb-arnold/)
 
 We all enjoyed the whole day, everything went flawlessly and it gave us some experience on how to teach new things the most efficiently.
-
-![IMG_20190410_122830.jpg](https://community.cloud4est.com/uploads/IMG_20190410_122830.jpg)
 
 To my surprise I even met a 3D printer sitting in silently in the IT room, since it hasn't been set up correctly. This could be a future adventure as we're expecting additional cooperation with the school.

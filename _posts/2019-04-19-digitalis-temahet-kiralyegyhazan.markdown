@@ -21,8 +21,6 @@ Egyáltalán nem számítottam ilyesmire, viszont nagyon pozitívan gondoltam r�
 
 - Márk a **weboldal fejlesztés** workshopot [Arnival](https://community.cloud4est.com/authors/schelb-arnold/)
 
-A program szuperül ment, a diákok figyeltek (és reméljük tanultak is), a "király"-os szóviccemet pedig szerintem elég volt egyszer elsütni, most kihagynám... Emellett mi is rengeteget tanultunk és tapasztaltunk arról, hogy miként lehet a leghatékonyabban átadni az ismereteinket, ezen a téren is fontos fejlődnünk. 
-
-![IMG_20190410_122830.jpg](https://community.cloud4est.com/uploads/IMG_20190410_122830.jpg)
+A program szuperül ment, a diákok figyeltek (és reméljük tanultak is), a "király"-os szóviccemet pedig szerintem elég volt egyszer elsütni, most kihagynám... Emellett mi is rengeteget tanultunk és tapasztaltunk arról, hogy miként lehet a leghatékonyabban átadni az ismereteinket, ezen a téren is fontos fejlődnünk.
 
 Nagy meglepetésemre egy 3D-s nyomtatóval is sikerült összefutnom a számtech teremben, ami lassan egy éve nem üzemel, mivel nem lett normálisan beállítva. Ez majd lehet egy következő kaland lesz, mivel további együttműködésre számítunk velük.
