@@ -6,6 +6,7 @@ style: bottom
 is-featured: true
 topic: Események
 author: Schelb Arnold
+image: "/uploads/IMG_TP20190419_124328.jpg"
 ---
 
 Hát hol is kezdjem... elég pörgős volt ez a tegnapi nap. Szerencsére "ráértem" 7-kor elindulni, 7:14-es vonat Pestre, 10:24-re Keleti, 11-re pedig CEU iLab.
