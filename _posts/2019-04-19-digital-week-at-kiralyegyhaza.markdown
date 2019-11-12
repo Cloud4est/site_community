@@ -15,11 +15,11 @@ The whole story begins a bit earlier, around March. We were invited to this even
 
 Honestly I didn't expect any invitation like that before I heard about it, but I looked at this occasion very positively from the start. We began to discuss the details, both with the school and inside our team as well. We came to the conclusion that we're going to do 3 workshops, which can fill the whole 2 hours we were given. This way every student could choose something he/she liked and at the same time we could showcase our activities in the group. The workshops were the following:
 
-- [Ágota](https://community.cloud4est.com/authors/toth/) gave the **digital graphics** workshop with [Ádám](https://community.cloud4est.com/authors/adam-nagy-hu/),
+- [Ágota](https://cloud4est.github.io/site_community/authors/toth/) gave the **digital graphics** workshop with [Ádám](https://cloud4est.github.io/site_community/authors/adam-nagy-hu/),
 
-- [Lilla](https://community.cloud4est.com/authors/kerklecz-lilla/) the **social media** workshop with Barni,
+- [Lilla](https://cloud4est.github.io/site_community/authors/kerklecz-lilla/) the **social media** workshop with Barni,
 
-- Márk the **website development** workshop with [Arni](https://community.cloud4est.com/authors/schelb-arnold/)
+- Márk the **website development** workshop with [Arni](https://cloud4est.github.io/site_community/authors/schelb-arnold/)
 
 We all enjoyed the whole day, everything went flawlessly and it gave us some experience on how to teach new things the most efficiently.
 

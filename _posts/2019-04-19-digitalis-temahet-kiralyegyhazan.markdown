@@ -15,11 +15,11 @@ A történet ennél kicsit korábbra nyúlik vissza. Még talán Márciusban mer
 
 Egyáltalán nem számítottam ilyesmire, viszont nagyon pozitívan gondoltam rá az elejétől kezdve, szerintem óriási lehetőség. Elkezdődött az egyeztetés velük, illetve mi is ötleteltünk lehetséges programokról. Végülis azt találtuk ki, hogy csinálunk 3 workshopot, amivel ki tudjuk tölteni a rendelkezésünkre álló 2 órát. Így mindenki azt a foglalkozást választhatja amit a legjobban szeretne, és mi is meg tudjuk mutatni, hogy mivel is foglalkozunk.
 
-- [Ágota](https://community.cloud4est.com/authors/toth/) vitte a **digitális grafika** workshopot [Ádámmal](https://community.cloud4est.com/authors/adam-nagy-hu/),
+- [Ágota](https://cloud4est.github.io/site_community/authors/toth/) vitte a **digitális grafika** workshopot [Ádámmal](https://cloud4est.github.io/site_community/authors/adam-nagy-hu/),
 
-- [Lilla](https://community.cloud4est.com/authors/kerklecz-lilla/) a **social media** workshopot Barnival,
+- [Lilla](https://cloud4est.github.io/site_community/authors/kerklecz-lilla/) a **social media** workshopot Barnival,
 
-- Márk a **weboldal fejlesztés** workshopot [Arnival](https://community.cloud4est.com/authors/schelb-arnold/)
+- Márk a **weboldal fejlesztés** workshopot [Arnival](https://cloud4est.github.io/site_community/authors/schelb-arnold/)
 
 A program szuperül ment, a diákok figyeltek (és reméljük tanultak is), a "király"-os szóviccemet pedig szerintem elég volt egyszer elsütni, most kihagynám... Emellett mi is rengeteget tanultunk és tapasztaltunk arról, hogy miként lehet a leghatékonyabban átadni az ismereteinket, ezen a téren is fontos fejlődnünk.
 

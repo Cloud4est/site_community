@@ -13,7 +13,7 @@ Yesterday was pretty busy... although I only had to leave at 7, catch the train 
 
 So that's how it all started, because we took part in the **[Budapest Startup Safari](https://budapest.startupsafari.com/)**.
 
-This was the second occasion after the previous year, which also went really well. Our concept was a bit different from last year's: we've picked different programs now, and went on our own. To our surprise we met each other in the end just a few streets away from Anker köz, where [Ádám](https://community.cloud4est.com/authors/adam-nagy-hu/) greeted us with the following question:
+This was the second occasion after the previous year, which also went really well. Our concept was a bit different from last year's: we've picked different programs now, and went on our own. To our surprise we met each other in the end just a few streets away from Anker köz, where [Ádám](https://cloud4est.github.io/site_community/authors/adam-nagy-hu/) greeted us with the following question:
 
 > "What's up? Have we already grown out of this city too?"
 

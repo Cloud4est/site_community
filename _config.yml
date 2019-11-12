@@ -66,9 +66,9 @@ social:
   - https://www.instagram.com/cloud4st/
   - https://www.youtube.com/channel/UC1aBUmUZTGBWwj5N9ktfx7w
   - https://github.com/Cloud4est/
-baseurl: 
+baseurl: /site_community
 permalink: pretty
-url: https://community.cloud4est.com
+url: https://cloud4est.github.io
 pic: "/images/CD4ST_logo.svg"
 banner: "/images/Montage-YT_11-02.svg"
 twitter_url: https://twitter.com/CD4ST/

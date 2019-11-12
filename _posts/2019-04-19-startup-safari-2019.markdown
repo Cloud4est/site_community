@@ -13,7 +13,7 @@ Hát hol is kezdjem... elég pörgős volt ez a tegnapi nap. Szerencsére "ráé
 
 Szóval így kezdődött a tegnap, mivel páran a csapatból **részt vettünk a [Startup Safarin](https://budapest.startupsafari.com/), Budapesten**.
 
-Tavaly is volt hozzá szerencsénk, mondanom sem kell, hogy az is jól sikerült. Akkor a koncepció kicsit más volt (legalábbis részünkről). Most nem együtt, közös programokra mentünk, hanem mindenki kiválasztotta a saját útját, amik néhol azért metszették egymást. Nagy meglepetésünkre a végére mindenki összefutott mindenkivel, egyszer 3-an találkoztunk össze az Anker köztől pár utcányira, ahol [Ádám](https://community.cloud4est.com/authors/adam-nagy-hu/) a
+Tavaly is volt hozzá szerencsénk, mondanom sem kell, hogy az is jól sikerült. Akkor a koncepció kicsit más volt (legalábbis részünkről). Most nem együtt, közös programokra mentünk, hanem mindenki kiválasztotta a saját útját, amik néhol azért metszették egymást. Nagy meglepetésünkre a végére mindenki összefutott mindenkivel, egyszer 3-an találkoztunk össze az Anker köztől pár utcányira, ahol [Ádám](https://cloud4est.github.io/site_community/authors/adam-nagy-hu/) a
 
 > "Na mivan, már ezt a várost is kinőttük?"
 
