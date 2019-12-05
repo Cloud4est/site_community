@@ -1,7 +1,7 @@
 <!-- Content -->
 <section id="content">
   {% if page.type == null %}
-  <a href="#" class="image fit"><img src="{{ page.image | prepend: site.baseurl }}" alt="" /></a>
+  <a href="#" class="image fit"><img src="{% if page.image %}{{ page.image | prepend: site.baseurl }}{% else %}https://picsum.photos/seed/{{ page.title | slugify: "latin" }}/1920/1080/{% endif %}" alt="" /></a>
   {% endif %}
   {{ content }}
 </section>

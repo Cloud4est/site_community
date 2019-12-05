@@ -1,5 +1,5 @@
 <section id="{{ post.title | slugify: "latin" }}" class="spotlight {% if post.style == "bottom" %}style1{% elsif post.style == "right" %}style2{% elsif post.style == "left" %}style3{% endif %} {{ post.style }}">
-  <span class="image fit main"><img src="{{ post.image | prepend: site.baseurl }}" alt="" /></span>
+  <span class="image fit main"><img src="{% if post.image %}{{ post.image | prepend: site.baseurl }}{% else %}https://picsum.photos/seed/{{ post.title | slugify: "latin" }}/1920/1080/{% endif %}" alt="" /></span>
   <div class="content">{% if post.style == "bottom" %}
     <div class="container">
       <div class="row">{% endif %}

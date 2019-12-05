@@ -31,7 +31,6 @@ defaults:
     type: posts
   values:
     layout: default
-    image: https://picsum.photos/1920/1080
     author: Szerző
     lang: hu
     style: bottom
