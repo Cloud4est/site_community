@@ -5,4 +5,4 @@ image: "/uploads/PortraitSquare.jpg"
 lang: hu
 ---
 
-**Nyílt** forráskódú / **Szabad** software megszállott. Újabban hobbim érdekes, új projekteket felfedezni, a 3D nyomtatás + próbálkozás modellkészítéssel, weboldalfejlesztés, GNU/Linux + kütyük bütykölése, és még sok más... Érdekelnek az emberek is, nyitottnak gondolom magam feléjük. Mellettük meg szeretném említeni az állatokat és növényeket, mint további **élő** organizmusok. _Cloud4est alapító_.
+**Nyílt** forráskódú / **Szabad** software. Újabban hobbim érdekes projekteket felfedezni legyen az software vagy hardver, a 3D nyomtatás & próbálkozás modellkészítéssel, weboldalfejlesztés, GNU/Linux és más kütyük bütykölése, és hasonlók... _Cloud4est alapító_.
